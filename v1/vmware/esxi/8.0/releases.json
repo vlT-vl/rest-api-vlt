@@ -1,170 +1,191 @@
 [
    {
-      "Versione":"ESXi 8.0.3 P09",
-      "Nome Release":"ESXi 8.0 Update 3j",
-      "Data Rilascio":"2026/05/27",
-      "Build Number":25429389,
-      "Tipo":"ISO"
+      "Versione": "ESXi 8.0.3 P09",
+      "Nome Release": "ESXi 8.0 Update 3j",
+      "Data Rilascio": "2026/05/27",
+      "Build Number": 25429389,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 8.0.3 P08",
-      "Nome Release":"ESXi 8.0 Update 3i",
-      "Data Rilascio":"2026/02/24",
-      "Build Number":25205845,
-      "Tipo":"ISO"
+      "Versione": "ESXi 8.0.3 P08",
+      "Nome Release": "ESXi 8.0 Update 3i",
+      "Data Rilascio": "2026/02/24",
+      "Build Number": 25205845,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 8.0.3 P07",
-      "Nome Release":"ESXi 8.0 Update 3h",
-      "Data Rilascio":"2025/12/15",
-      "Build Number":25067014,
-      "Tipo":"ISO"
+      "Versione": "ESXi 8.0.0g",
+      "Nome Release": "ESXi 8.0g",
+      "Data Rilascio": "2026/02/13",
+      "Build Number": 25191479,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 8.0.3 P06",
-      "Nome Release":"ESXi 8.0 Update 3g",
-      "Data Rilascio":"2025/07/29",
-      "Build Number":24859861,
-      "Tipo":"ISO"
+      "Versione": "ESXi 8.0.3 P07",
+      "Nome Release": "ESXi 8.0 Update 3h",
+      "Data Rilascio": "2025/12/15",
+      "Build Number": 25067014,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 8.0.2 EP4",
-      "Nome Release":"ESXi 8.0 Update 2e",
-      "Data Rilascio":"2025/07/15",
-      "Build Number":24789317,
-      "Tipo":"Patch"
+      "Versione": "ESXi 8.0.3 P06",
+      "Nome Release": "ESXi 8.0 Update 3g",
+      "Data Rilascio": "2025/07/29",
+      "Build Number": 24859861,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 8.0.3 EP5",
-      "Nome Release":"ESXi 8.0 Update 3f",
-      "Data Rilascio":"2025/07/15",
-      "Build Number":24784735,
-      "Tipo":"Patch"
+      "Versione": "ESXi 8.0f",
+      "Nome Release": "ESXi 8.0f",
+      "Data Rilascio": "2025/07/15",
+      "Build Number": 24814147,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 8.0.3 P05",
-      "Nome Release":"ESXi 8.0 Update 3e",
-      "Data Rilascio":"2025/04/10",
-      "Build Number":24674464,
-      "Tipo":"ISO"
+      "Versione": "ESXi 8.0.2 EP4",
+      "Nome Release": "ESXi 8.0 Update 2e",
+      "Data Rilascio": "2025/07/15",
+      "Build Number": 24789317,
+      "Tipo": "Patch"
    },
    {
-      "Versione":"ESXi 8.0.3 EP4",
-      "Nome Release":"ESXi 8.0 Update 3d",
-      "Data Rilascio":"2025/03/04",
-      "Build Number":24585383,
-      "Tipo":"Patch"
+      "Versione": "ESXi 8.0.3 EP5",
+      "Nome Release": "ESXi 8.0 Update 3f",
+      "Data Rilascio": "2025/07/15",
+      "Build Number": 24784735,
+      "Tipo": "Patch"
    },
    {
-      "Versione":"ESXi 8.0 Update 2d",
-      "Nome Release":"ESXi 8.0 Update 2d",
-      "Data Rilascio":"2025/03/04",
-      "Build Number":24585300,
-      "Tipo":"Patch"
+      "Versione": "ESXi 8.0.3 P05",
+      "Nome Release": "ESXi 8.0 Update 3e",
+      "Data Rilascio": "2025/04/10",
+      "Build Number": 24674464,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 8.0.0g",
-      "Nome Release":"ESXi 8.0g",
-      "Data Rilascio":"2026/02/13",
-      "Build Number":25191479,
-      "Tipo":"ISO"
+      "Versione": "ESXi 8.0.3 EP4",
+      "Nome Release": "ESXi 8.0 Update 3d",
+      "Data Rilascio": "2025/03/04",
+      "Build Number": 24585383,
+      "Tipo": "Patch"
    },
    {
-      "Versione":"ESXi 8.0.3 EP3",
-      "Nome Release":"ESXi 8.0 Update 3c",
-      "Data Rilascio":"2024/12/12",
-      "Build Number":24414501,
-      "Tipo":"Patch"
+      "Versione": "ESXi 8.0 Update 2d",
+      "Nome Release": "ESXi 8.0 Update 2d",
+      "Data Rilascio": "2025/03/04",
+      "Build Number": 24585300,
+      "Tipo": "Patch"
    },
    {
-      "Versione":"ESXi 8.0.3 P04",
-      "Nome Release":"ESXi 8.0 Update 3b",
-      "Data Rilascio":"2024/09/17",
-      "Build Number":24280767,
-      "Tipo":"ISO"
+      "Versione": "ESXi 8.0e",
+      "Nome Release": "ESXi 8.0e",
+      "Data Rilascio": "2025/03/11",
+      "Build Number": 24569005,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 8.0.3",
-      "Nome Release":"ESXi 8.0 Update 3",
-      "Data Rilascio":"2024/06/25",
-      "Build Number":24022510,
-      "Tipo":"ISO"
+      "Versione": "ESXi 8.0.3 EP3",
+      "Nome Release": "ESXi 8.0 Update 3c",
+      "Data Rilascio": "2024/12/12",
+      "Build Number": 24414501,
+      "Tipo": "Patch"
    },
    {
-      "Versione":"ESXi 8.0.2 EP2",
-      "Nome Release":"ESXi 8.0 Update 2c",
-      "Data Rilascio":"2024/05/21",
-      "Build Number":23825572,
-      "Tipo":"Patch"
+      "Versione": "ESXi 8.0.3 P04",
+      "Nome Release": "ESXi 8.0 Update 3b",
+      "Data Rilascio": "2024/09/17",
+      "Build Number": 24280767,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 8.0.1 U1d",
-      "Nome Release":"ESXi 8.0 Update 1d",
-      "Data Rilascio":"2024/03/05",
-      "Build Number":23299997,
-      "Tipo":"Patch"
+      "Versione": "ESXi 8.0d",
+      "Nome Release": "ESXi 8.0d",
+      "Data Rilascio": "2024/10/07",
+      "Build Number": 24118393,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 8.0.2 P03",
-      "Nome Release":"ESXi 8.0 Update 2b",
-      "Data Rilascio":"2024/02/29",
-      "Build Number":23305546,
-      "Tipo":"ISO"
+      "Versione": "ESXi 8.0.3",
+      "Nome Release": "ESXi 8.0 Update 3",
+      "Data Rilascio": "2024/06/25",
+      "Build Number": 24022510,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 8.0.2",
-      "Nome Release":"ESXi 8.0 Update 2",
-      "Data Rilascio":"2023/09/21",
-      "Build Number":22380479,
-      "Tipo":"ISO"
+      "Versione": "ESXi 8.0.2 EP2",
+      "Nome Release": "ESXi 8.0 Update 2c",
+      "Data Rilascio": "2024/05/21",
+      "Build Number": 23825572,
+      "Tipo": "Patch"
    },
    {
-      "Versione":"ESXi 8.0.1 P02",
-      "Nome Release":"ESXi 8.0 Update 1c",
-      "Data Rilascio":"2023/07/27",
-      "Build Number":22088125,
-      "Tipo":"Patch"
+      "Versione": "ESXi 8.0.2 P03",
+      "Nome Release": "ESXi 8.0 Update 2b",
+      "Data Rilascio": "2024/02/29",
+      "Build Number": 23305546,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 8.0.1 EP1",
-      "Nome Release":"ESXi 8.0 Update 1a",
-      "Data Rilascio":"2023/06/01",
-      "Build Number":21813344,
-      "Tipo":"ISO"
+      "Versione": "ESXi 8.0.1 U1d",
+      "Nome Release": "ESXi 8.0 Update 1d",
+      "Data Rilascio": "2024/03/05",
+      "Build Number": 23299997,
+      "Tipo": "Patch"
    },
    {
-      "Versione":"ESXi 8.0.1",
-      "Nome Release":"ESXi 8.0 Update 1",
-      "Data Rilascio":"2023/04/18",
-      "Build Number":21495797,
-      "Tipo":"ISO"
+      "Versione": "ESXi 8.0.2",
+      "Nome Release": "ESXi 8.0 Update 2",
+      "Data Rilascio": "2023/09/21",
+      "Build Number": 22380479,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 8.0.0 EP2",
-      "Nome Release":"ESXi 8.0c",
-      "Data Rilascio":"2023/03/30",
-      "Build Number":21493926,
-      "Tipo":"Patch"
+      "Versione": "ESXi 8.0.1 P02",
+      "Nome Release": "ESXi 8.0 Update 1c",
+      "Data Rilascio": "2023/07/27",
+      "Build Number": 22088125,
+      "Tipo": "Patch"
    },
    {
-      "Versione":"ESXi 8.0.0 P01",
-      "Nome Release":"ESXi 8.0b",
-      "Data Rilascio":"2023/02/14",
-      "Build Number":21203435,
-      "Tipo":"ISO"
+      "Versione": "ESXi 8.0.1 EP1",
+      "Nome Release": "ESXi 8.0 Update 1a",
+      "Data Rilascio": "2023/06/01",
+      "Build Number": 21813344,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 8.0.0 EP1",
-      "Nome Release":"ESXi 8.0a",
-      "Data Rilascio":"2022/12/08",
-      "Build Number":20842819,
-      "Tipo":"ISO"
+      "Versione": "ESXi 8.0.1",
+      "Nome Release": "ESXi 8.0 Update 1",
+      "Data Rilascio": "2023/04/18",
+      "Build Number": 21495797,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 8.0.0",
-      "Nome Release":"ESXi 8.0 GA",
-      "Data Rilascio":"2022/10/11",
-      "Build Number":20513097,
-      "Tipo":"ISO"
+      "Versione": "ESXi 8.0.0 EP2",
+      "Nome Release": "ESXi 8.0c",
+      "Data Rilascio": "2023/03/30",
+      "Build Number": 21493926,
+      "Tipo": "Patch"
+   },
+   {
+      "Versione": "ESXi 8.0.0 P01",
+      "Nome Release": "ESXi 8.0b",
+      "Data Rilascio": "2023/02/14",
+      "Build Number": 21203435,
+      "Tipo": "ISO"
+   },
+   {
+      "Versione": "ESXi 8.0.0 EP1",
+      "Nome Release": "ESXi 8.0a",
+      "Data Rilascio": "2022/12/08",
+      "Build Number": 20842819,
+      "Tipo": "ISO"
+   },
+   {
+      "Versione": "ESXi 8.0.0",
+      "Nome Release": "ESXi 8.0 GA",
+      "Data Rilascio": "2022/10/11",
+      "Build Number": 20513097,
+      "Tipo": "ISO"
    }
 ]

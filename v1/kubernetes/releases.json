@@ -3484,5 +3484,243 @@
       "Codename": "k8s-1.0.0",
       "Data Rilascio": "2015-07-21",
       "End Of Support": "2016-09-28"
+   },
+   {
+      "Nome Release": "Kubernetes 0.21.4",
+      "Versione": "0.21.4",
+      "Codename": "k8s-0.21.4",
+      "Data Rilascio": "2015-07-17",
+      "End Of Support": "N/A"
+   },
+   {
+      "Nome Release": "Kubernetes 0.21.3",
+      "Versione": "0.21.3",
+      "Codename": "k8s-0.21.3",
+      "Data Rilascio": "2015-07-16",
+      "End Of Support": "N/A"
+   },
+   {
+      "Nome Release": "Kubernetes 0.21.1",
+      "Versione": "0.21.1",
+      "Codename": "k8s-0.21.1",
+      "Data Rilascio": "2015-07-09",
+      "End Of Support": "N/A"
+   },
+   {
+      "Nome Release": "Kubernetes 0.20.2",
+      "Versione": "0.20.2",
+      "Codename": "k8s-0.20.2",
+      "Data Rilascio": "2015-06-30",
+      "End Of Support": "N/A"
+   },
+   {
+      "Nome Release": "Kubernetes 0.19.3",
+      "Versione": "0.19.3",
+      "Codename": "k8s-0.19.3",
+      "Data Rilascio": "2015-06-22",
+      "End Of Support": "N/A"
+   },
+   {
+      "Nome Release": "Kubernetes 0.18.2",
+      "Versione": "0.18.2",
+      "Codename": "k8s-0.18.2",
+      "Data Rilascio": "2015-06-08",
+      "End Of Support": "N/A"
+   },
+   {
+      "Nome Release": "Kubernetes 0.18.1",
+      "Versione": "0.18.1",
+      "Codename": "k8s-0.18.1",
+      "Data Rilascio": "2015-06-03",
+      "End Of Support": "N/A"
+   },
+   {
+      "Nome Release": "Kubernetes 0.17.1",
+      "Versione": "0.17.1",
+      "Codename": "k8s-0.17.1",
+      "Data Rilascio": "2015-05-21",
+      "End Of Support": "N/A"
+   },
+   {
+      "Nome Release": "Kubernetes 0.17.0",
+      "Versione": "0.17.0",
+      "Codename": "k8s-0.17.0",
+      "Data Rilascio": "2015-05-13",
+      "End Of Support": "N/A"
+   },
+   {
+      "Nome Release": "Kubernetes 0.16.0",
+      "Versione": "0.16.0",
+      "Codename": "k8s-0.16.0",
+      "Data Rilascio": "2015-04-29",
+      "End Of Support": "N/A"
+   },
+   {
+      "Nome Release": "Kubernetes 0.15.0",
+      "Versione": "0.15.0",
+      "Codename": "k8s-0.15.0",
+      "Data Rilascio": "2015-04-13",
+      "End Of Support": "N/A"
+   },
+   {
+      "Nome Release": "Kubernetes 0.14.2",
+      "Versione": "0.14.2",
+      "Codename": "k8s-0.14.2",
+      "Data Rilascio": "2015-04-08",
+      "End Of Support": "N/A"
+   },
+   {
+      "Nome Release": "Kubernetes 0.14.1",
+      "Versione": "0.14.1",
+      "Codename": "k8s-0.14.1",
+      "Data Rilascio": "2015-04-01",
+      "End Of Support": "N/A"
+   },
+   {
+      "Nome Release": "Kubernetes 0.13.2",
+      "Versione": "0.13.2",
+      "Codename": "k8s-0.13.2",
+      "Data Rilascio": "2015-03-19",
+      "End Of Support": "N/A"
+   },
+   {
+      "Nome Release": "Kubernetes 0.11.0",
+      "Versione": "0.11.0",
+      "Codename": "k8s-0.11.0",
+      "Data Rilascio": "2015-02-18",
+      "End Of Support": "N/A"
+   },
+   {
+      "Nome Release": "Kubernetes 0.10.1",
+      "Versione": "0.10.1",
+      "Codename": "k8s-0.10.1",
+      "Data Rilascio": "2015-02-10",
+      "End Of Support": "N/A"
+   },
+   {
+      "Nome Release": "Kubernetes 0.9.3",
+      "Versione": "0.9.3",
+      "Codename": "k8s-0.9.3",
+      "Data Rilascio": "2015-01-31",
+      "End Of Support": "N/A"
+   },
+   {
+      "Nome Release": "Kubernetes 0.9.2",
+      "Versione": "0.9.2",
+      "Codename": "k8s-0.9.2",
+      "Data Rilascio": "2015-01-28",
+      "End Of Support": "N/A"
+   },
+   {
+      "Nome Release": "Kubernetes 0.8.4",
+      "Versione": "0.8.4",
+      "Codename": "k8s-0.8.4",
+      "Data Rilascio": "2015-01-29",
+      "End Of Support": "N/A"
+   },
+   {
+      "Nome Release": "Kubernetes 0.8.2",
+      "Versione": "0.8.2",
+      "Codename": "k8s-0.8.2",
+      "Data Rilascio": "2015-01-21",
+      "End Of Support": "N/A"
+   },
+   {
+      "Nome Release": "Kubernetes 0.8.1",
+      "Versione": "0.8.1",
+      "Codename": "k8s-0.8.1",
+      "Data Rilascio": "2015-01-13",
+      "End Of Support": "N/A"
+   },
+   {
+      "Nome Release": "Kubernetes 0.8.0",
+      "Versione": "0.8.0",
+      "Codename": "k8s-0.8.0",
+      "Data Rilascio": "2015-01-07",
+      "End Of Support": "N/A"
+   },
+   {
+      "Nome Release": "Kubernetes 0.7.2",
+      "Versione": "0.7.2",
+      "Codename": "k8s-0.7.2",
+      "Data Rilascio": "2014-12-29",
+      "End Of Support": "N/A"
+   },
+   {
+      "Nome Release": "Kubernetes 0.7.1",
+      "Versione": "0.7.1",
+      "Codename": "k8s-0.7.1",
+      "Data Rilascio": "2014-12-23",
+      "End Of Support": "N/A"
+   },
+   {
+      "Nome Release": "Kubernetes 0.7.0",
+      "Versione": "0.7.0",
+      "Codename": "k8s-0.7.0",
+      "Data Rilascio": "2014-12-16",
+      "End Of Support": "N/A"
+   },
+   {
+      "Nome Release": "Kubernetes 0.6.2",
+      "Versione": "0.6.2",
+      "Codename": "k8s-0.6.2",
+      "Data Rilascio": "2014-12-12",
+      "End Of Support": "N/A"
+   },
+   {
+      "Nome Release": "Kubernetes 0.6.1",
+      "Versione": "0.6.1",
+      "Codename": "k8s-0.6.1",
+      "Data Rilascio": "2014-12-09",
+      "End Of Support": "N/A"
+   },
+   {
+      "Nome Release": "Kubernetes 0.5.6",
+      "Versione": "0.5.6",
+      "Codename": "k8s-0.5.6",
+      "Data Rilascio": "2014-12-12",
+      "End Of Support": "N/A"
+   },
+   {
+      "Nome Release": "Kubernetes 0.5.4",
+      "Versione": "0.5.4",
+      "Codename": "k8s-0.5.4",
+      "Data Rilascio": "2014-11-25",
+      "End Of Support": "N/A"
+   },
+   {
+      "Nome Release": "Kubernetes 0.5.3",
+      "Versione": "0.5.3",
+      "Codename": "k8s-0.5.3",
+      "Data Rilascio": "2014-11-24",
+      "End Of Support": "N/A"
+   },
+   {
+      "Nome Release": "Kubernetes 0.4.4",
+      "Versione": "0.4.4",
+      "Codename": "k8s-0.4.4",
+      "Data Rilascio": "2014-11-19",
+      "End Of Support": "N/A"
+   },
+   {
+      "Nome Release": "Kubernetes 0.4.3",
+      "Versione": "0.4.3",
+      "Codename": "k8s-0.4.3",
+      "Data Rilascio": "2014-10-30",
+      "End Of Support": "N/A"
+   },
+   {
+      "Nome Release": "Kubernetes 0.4.2",
+      "Versione": "0.4.2",
+      "Codename": "k8s-0.4.2",
+      "Data Rilascio": "2014-10-29",
+      "End Of Support": "N/A"
+   },
+   {
+      "Nome Release": "Kubernetes 0.4.1",
+      "Versione": "0.4.1",
+      "Codename": "k8s-0.4.1",
+      "Data Rilascio": "2014-10-17",
+      "End Of Support": "N/A"
    }
 ]

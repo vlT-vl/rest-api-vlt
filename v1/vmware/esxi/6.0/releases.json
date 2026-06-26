@@ -1,247 +1,723 @@
 [
    {
-      "Versione":"ESXi 6.0 EP 25",
-      "Nome Release":"ESXi600-202002001",
-      "Data Rilascio":"2020/02/20",
-      "Build Number":15517548,
-      "Tipo":"N/A"
+      "Versione": "ESXi 6.5 P09",
+      "Nome Release": "ESXi 6.5 P09",
+      "Data Rilascio": "2022/10/06",
+      "Build Number": 20502893,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 6.0 EP 23",
-      "Nome Release":"ESXi600-201912001",
-      "Data Rilascio":"2019/12/05",
-      "Build Number":15169789,
-      "Tipo":"N/A"
+      "Versione": "ESXi 6.7 P08",
+      "Nome Release": "ESXi 6.7 P08",
+      "Data Rilascio": "2022/10/06",
+      "Build Number": 20497097,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 6.0 P08",
-      "Nome Release":"ESXi600-201909001",
-      "Data Rilascio":"2019/09/12",
-      "Build Number":14513180,
-      "Tipo":"N/A"
+      "Versione": "ESXi 6.7 EP 24",
+      "Nome Release": "ESXi 6.7 EP 24",
+      "Data Rilascio": "2022/07/12",
+      "Build Number": 19997733,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 6.0 EP 22",
-      "Nome Release":"ESXi600-201911001",
-      "Data Rilascio":"2019/11/12",
-      "Build Number":15018929,
-      "Tipo":"N/A"
+      "Versione": "ESXi 6.5 EP27",
+      "Nome Release": "ESXi 6.5 EP27",
+      "Data Rilascio": "2022/07/12",
+      "Build Number": 19997716,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 6.0 EP 21",
-      "Nome Release":"ESXi600-201905001",
-      "Data Rilascio":"2019/05/14",
-      "Build Number":13635687,
-      "Tipo":"N/A"
+      "Versione": "ESXi 6.7 P07",
+      "Nome Release": "ESXi 6.7 P07",
+      "Data Rilascio": "2022/06/14",
+      "Build Number": 19898906,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 6.0 EP 20",
-      "Nome Release":"ESXi600-201903001",
-      "Data Rilascio":"2019/03/28",
-      "Build Number":13003896,
-      "Tipo":"N/A"
+      "Versione": "ESXi 6.5 P08",
+      "Nome Release": "ESXi 6.5 P08",
+      "Data Rilascio": "2022/05/12",
+      "Build Number": 19588618,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 6.0 EP 19",
-      "Nome Release":"ESXi600-201811001",
-      "Data Rilascio":"2018/11/09",
-      "Build Number":10719132,
-      "Tipo":"N/A"
+      "Versione": "ESXi 6.7 EP 23",
+      "Nome Release": "ESXi 6.7 EP 23",
+      "Data Rilascio": "2022/01/25",
+      "Build Number": 19195723,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 6.0 EP 18",
-      "Nome Release":"ESXi600-201810001",
-      "Data Rilascio":"2018/10/23",
-      "Build Number":10474991,
-      "Tipo":"N/A"
+      "Versione": "ESXi 6.5 EP26",
+      "Nome Release": "ESXi 6.5 EP26",
+      "Data Rilascio": "2022/02/15",
+      "Build Number": 19092475,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 6.0 EP 17",
-      "Nome Release":"ESXi600-201809001",
-      "Data Rilascio":"2018/09/13",
-      "Build Number":9919195,
-      "Tipo":"N/A"
+      "Versione": "ESXi 6.7 P06",
+      "Nome Release": "ESXi 6.7 P06",
+      "Data Rilascio": "2021/11/23",
+      "Build Number": 18828794,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 6.0 EP 15",
-      "Nome Release":"ESXi600-201808001",
-      "Data Rilascio":"2018/08/14",
-      "Build Number":9313334,
-      "Tipo":"N/A"
+      "Versione": "ESXi 6.5 P07",
+      "Nome Release": "ESXi 6.5 P07",
+      "Data Rilascio": "2021/10/12",
+      "Build Number": 18678235,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 6.0 P07",
-      "Nome Release":"ESXi600-201807001",
-      "Data Rilascio":"2018/07/26",
-      "Build Number":9239799,
-      "Tipo":"N/A"
+      "Versione": "ESXi 6.5 EP 24",
+      "Nome Release": "ESXi 6.5 EP 24",
+      "Data Rilascio": "2021/07/13",
+      "Build Number": 18071574,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 6.0 U3f",
-      "Nome Release":"ESXi600-201806001",
-      "Data Rilascio":"2018/06/28",
-      "Build Number":8934903,
-      "Tipo":"N/A"
+      "Versione": "ESXi 6.7 P05",
+      "Nome Release": "ESXi 6.7 P05",
+      "Data Rilascio": "2021/03/18",
+      "Build Number": 17700523,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 6.0 U3e",
-      "Nome Release":"ESXi600-201803001",
-      "Data Rilascio":"2018/03/20",
-      "Build Number":7967664,
-      "Tipo":"N/A"
+      "Versione": "ESXi 6.7 EP 18",
+      "Nome Release": "ESXi 6.7 EP 18",
+      "Data Rilascio": "2021/02/23",
+      "Build Number": 17499825,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 6.0 U3d",
-      "Nome Release":"ESXi600-201801001",
-      "Data Rilascio":"2018/01/09",
-      "Build Number":7504637,
-      "Tipo":"N/A"
+      "Versione": "ESXi 6.5 P06",
+      "Nome Release": "ESXi 6.5 P06",
+      "Data Rilascio": "2021/02/23",
+      "Build Number": 17477841,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 6.0 Patch 6",
-      "Nome Release":"ESXi600-201711001",
-      "Data Rilascio":"2017/11/09",
-      "Build Number":6921384,
-      "Tipo":"N/A"
+      "Versione": "ESXi 6.7 P04",
+      "Nome Release": "ESXi 670-202011002",
+      "Data Rilascio": "2020/11/19",
+      "Build Number": 17167734,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 6.0 Express Patch 11",
-      "Nome Release":"ESXi600-201710001",
-      "Data Rilascio":"2017/10/05",
-      "Build Number":6765062,
-      "Tipo":"N/A"
+      "Versione": "ESXi 6.5 EP 23",
+      "Nome Release": "ESXi 650-202011002",
+      "Data Rilascio": "2020/11/19",
+      "Build Number": 17167537,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 6.0 Update 3a (ESXi 6.0 Patch 5)",
-      "Nome Release":"ESXi600-201706001",
-      "Data Rilascio":"2017/06/06",
-      "Build Number":5572656,
-      "Tipo":"N/A"
+      "Versione": "ESXi 6.7 EP 17",
+      "Nome Release": "ESXi 6.7 EP 17",
+      "Data Rilascio": "2020/11/04",
+      "Build Number": 17098360,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 6.0 Express Patch 7c",
-      "Nome Release":"ESXi600-201703003",
-      "Data Rilascio":"2017/03/28",
-      "Build Number":5251623,
-      "Tipo":"N/A"
+      "Versione": "ESXi 6.5 EP 22",
+      "Nome Release": "ESXi 6.5 EP 22",
+      "Data Rilascio": "2020/11/04",
+      "Build Number": 17097218,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 6.0 Update 1 (VMSA-2017-0006)",
-      "Nome Release":"ESXi600-201703002",
-      "Data Rilascio":"2017/03/28",
-      "Build Number":5251621,
-      "Tipo":"N/A"
+      "Versione": "ESXi 6.5 EP 21",
+      "Nome Release": "ESXi 6.5 EP 21",
+      "Data Rilascio": "2020/10/15",
+      "Build Number": 16901156,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 6.0 Express Patch 7a",
-      "Nome Release":"ESXi600-201703001",
-      "Data Rilascio":"2017/03/28",
-      "Build Number":5224934,
-      "Tipo":"N/A"
+      "Versione": "ESXi 6.7 EP 16",
+      "Nome Release": "ESXi 6.7 EP 16",
+      "Data Rilascio": "2020/10/15",
+      "Build Number": 16773714,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 6.0 Update 3",
-      "Nome Release":"ESXi 6.0 Update 3",
-      "Data Rilascio":"2017/02/24",
-      "Build Number":5050593,
-      "Tipo":"N/A"
+      "Versione": "ESXi 6.7 P03",
+      "Nome Release": "ESXi 6.7 P03",
+      "Data Rilascio": "2020/08/20",
+      "Build Number": 16713306,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 6.0 Patch 4",
-      "Nome Release":"ESXi600-201611001",
-      "Data Rilascio":"2016/11/22",
-      "Build Number":4600944,
-      "Tipo":"N/A"
+      "Versione": "ESXi 6.5 P05",
+      "Nome Release": "ESXi 6.5 P05",
+      "Data Rilascio": "2020/07/30",
+      "Build Number": 16576891,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 6.0 Express Patch 7",
-      "Nome Release":"ESXi600-201610001",
-      "Data Rilascio":"2016/10/17",
-      "Build Number":4510822,
-      "Tipo":"N/A"
+      "Versione": "ESXi 6.5 EP 20",
+      "Nome Release": "ESXi 6.5 EP 20",
+      "Data Rilascio": "2020/06/30",
+      "Build Number": 16389870,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 6.0 Patch 3",
-      "Nome Release":"ESXi600-201608001",
-      "Data Rilascio":"2016/08/04",
-      "Build Number":4192238,
-      "Tipo":"N/A"
+      "Versione": "ESXi 6.7 EP 15",
+      "Nome Release": "ESXi 6.7 EP 15",
+      "Data Rilascio": "2020/06/09",
+      "Build Number": 16316930,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 6.0 Express Patch 6",
-      "Nome Release":"ESXi600-201605001",
-      "Data Rilascio":"2016/05/12",
-      "Build Number":3825889,
-      "Tipo":"N/A"
+      "Versione": "ESXi 6.5 EP 19",
+      "Nome Release": "ESXi 6.5 EP 19",
+      "Data Rilascio": "2020/05/28",
+      "Build Number": 16207673,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 6.0 Update 2",
-      "Nome Release":"ESXi 6.0 Update 2",
-      "Data Rilascio":"2016/03/16",
-      "Build Number":3620759,
-      "Tipo":"N/A"
+      "Versione": "ESXi 6.7 P02",
+      "Nome Release": "ESXi 6.7 P02",
+      "Data Rilascio": "2020/04/28",
+      "Build Number": 16075168,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 6.0 Express Patch 5",
-      "Nome Release":"ESXi600-201602001",
-      "Data Rilascio":"2016/02/23",
-      "Build Number":3568940,
-      "Tipo":"N/A"
+      "Versione": "ESXi 6.7 EP 14",
+      "Nome Release": "ESXi 6.7 EP 14",
+      "Data Rilascio": "2020/04/07",
+      "Build Number": 15820472,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 6.0 Update 1b",
-      "Nome Release":"ESXi600-201601001",
-      "Data Rilascio":"2016/01/07",
-      "Build Number":3380124,
-      "Tipo":"N/A"
+      "Versione": "ESXi 6.0 EP 25",
+      "Nome Release": "ESXi600-202002001",
+      "Data Rilascio": "2020/02/20",
+      "Build Number": 15517548,
+      "Tipo": "N/A"
    },
    {
-      "Versione":"ESXi 6.0 Express Patch 4",
-      "Nome Release":"ESXi600-201511001",
-      "Data Rilascio":"2015/11/25",
-      "Build Number":3247720,
-      "Tipo":"N/A"
+      "Versione": "ESXi 6.5 P04",
+      "Nome Release": "ESXi 6.5 P04",
+      "Data Rilascio": "2019/12/19",
+      "Build Number": 15256549,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 6.0 U1a (Express Patch 3)",
-      "Nome Release":"ESXi600-201510001",
-      "Data Rilascio":"2015/10/06",
-      "Build Number":3073146,
-      "Tipo":"N/A"
+      "Versione": "ESXi 6.5 EP 18",
+      "Nome Release": "ESXi 6.5 EP 18",
+      "Data Rilascio": "2019/12/05",
+      "Build Number": 15177306,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 6.0 U1",
-      "Nome Release":"ESXi 6.0 U1",
-      "Data Rilascio":"2015/09/10",
-      "Build Number":3029758,
-      "Tipo":"N/A"
+      "Versione": "ESXi 6.0 EP 23",
+      "Nome Release": "ESXi600-201912001",
+      "Data Rilascio": "2019/12/05",
+      "Build Number": 15169789,
+      "Tipo": "N/A"
    },
    {
-      "Versione":"ESXi 6.0.0b",
-      "Nome Release":"ESXi600-201507001",
-      "Data Rilascio":"2015/07/07",
-      "Build Number":2809209,
-      "Tipo":"N/A"
+      "Versione": "ESXi 6.7 P01 (Update 3b)",
+      "Nome Release": "ESXi 6.7 P01 (Update 3b)",
+      "Data Rilascio": "2019/12/05",
+      "Build Number": 15160138,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 6.0 Express Patch 2",
-      "Nome Release":"ESXi600-201505001",
-      "Data Rilascio":"2015/05/14",
-      "Build Number":2715440,
-      "Tipo":"N/A"
+      "Versione": "ESXi 6.0 EP 22",
+      "Nome Release": "ESXi600-201911001",
+      "Data Rilascio": "2019/11/12",
+      "Build Number": 15018929,
+      "Tipo": "N/A"
    },
    {
-      "Versione":"ESXi 6.0 Express Patch 1",
-      "Nome Release":"ESXi600-201504001",
-      "Data Rilascio":"2015/04/09",
-      "Build Number":2615704,
-      "Tipo":"N/A"
+      "Versione": "ESXi 6.7 EP 13",
+      "Nome Release": "ESXi 6.7 EP 13",
+      "Data Rilascio": "2019/11/12",
+      "Build Number": 15018017,
+      "Tipo": "ISO"
    },
    {
-      "Versione":"ESXi 6.0 GA",
-      "Nome Release":"ESXi 6.0 GA",
-      "Data Rilascio":"2015/03/12",
-      "Build Number":2494585,
-      "Tipo":"N/A"
+      "Versione": "ESXi 6.5 EP 17",
+      "Nome Release": "ESXi 6.5 EP 17",
+      "Data Rilascio": "2019/11/12",
+      "Build Number": 14990892,
+      "Tipo": "ISO"
+   },
+   {
+      "Versione": "ESXi 6.5 EP 16",
+      "Nome Release": "ESXi 6.5 EP 16",
+      "Data Rilascio": "2019/10/24",
+      "Build Number": 14874964,
+      "Tipo": "ISO"
+   },
+   {
+      "Versione": "ESXi 6.0 P08",
+      "Nome Release": "ESXi600-201909001",
+      "Data Rilascio": "2019/09/12",
+      "Build Number": 14513180,
+      "Tipo": "N/A"
+   },
+   {
+      "Versione": "ESXi 6.5 EP 15 (Update 3a)",
+      "Nome Release": "ESXi 6.5 EP 15 (Update 3a)",
+      "Data Rilascio": "2019/08/20",
+      "Build Number": 14320405,
+      "Tipo": "ISO"
+   },
+   {
+      "Versione": "ESXi 6.7 U3",
+      "Nome Release": "ESXi 6.7 Update 3",
+      "Data Rilascio": "2019/08/20",
+      "Build Number": 14320388,
+      "Tipo": "ISO"
+   },
+   {
+      "Versione": "ESXi 6.7 EP 10",
+      "Nome Release": "ESXi 6.7 EP 10",
+      "Data Rilascio": "2019/06/20",
+      "Build Number": 13981272,
+      "Tipo": "ISO"
+   },
+   {
+      "Versione": "ESXi 6.5 Update 3",
+      "Nome Release": "ESXi 6.5 Update 3",
+      "Data Rilascio": "2019/07/02",
+      "Build Number": 13932383,
+      "Tipo": "ISO"
+   },
+   {
+      "Versione": "ESXi 6.7 EP 09",
+      "Nome Release": "ESXi 6.7 EP 09",
+      "Data Rilascio": "2019/05/14",
+      "Build Number": 13644319,
+      "Tipo": "ISO"
+   },
+   {
+      "Versione": "ESXi 6.5 EP 14",
+      "Nome Release": "ESXi 6.5 EP 14",
+      "Data Rilascio": "2019/05/14",
+      "Build Number": 13635690,
+      "Tipo": "ISO"
+   },
+   {
+      "Versione": "ESXi 6.0 EP 21",
+      "Nome Release": "ESXi600-201905001",
+      "Data Rilascio": "2019/05/14",
+      "Build Number": 13635687,
+      "Tipo": "N/A"
+   },
+   {
+      "Versione": "ESXi 6.7 EP 08",
+      "Nome Release": "ESXi 6.7 EP 08",
+      "Data Rilascio": "2019/04/30",
+      "Build Number": 13473784,
+      "Tipo": "ISO"
+   },
+   {
+      "Versione": "ESXi 6.7 U2",
+      "Nome Release": "ESXi 6.7 U2",
+      "Data Rilascio": "2019/04/11",
+      "Build Number": 13006603,
+      "Tipo": "ISO"
+   },
+   {
+      "Versione": "ESXi 6.7 EP 07",
+      "Nome Release": "ESXi 6.7 EP 07",
+      "Data Rilascio": "2019/03/28",
+      "Build Number": 13004448,
+      "Tipo": "ISO"
+   },
+   {
+      "Versione": "ESXi 6.5 EP 13",
+      "Nome Release": "ESXi 6.5 EP 13",
+      "Data Rilascio": "2019/03/28",
+      "Build Number": 13004031,
+      "Tipo": "ISO"
+   },
+   {
+      "Versione": "ESXi 6.0 EP 20",
+      "Nome Release": "ESXi600-201903001",
+      "Data Rilascio": "2019/03/28",
+      "Build Number": 13003896,
+      "Tipo": "N/A"
+   },
+   {
+      "Versione": "ESXi 6.5 EP 12",
+      "Nome Release": "ESXi 6.5 EP 12",
+      "Data Rilascio": "2019/01/31",
+      "Build Number": 11925212,
+      "Tipo": "ISO"
+   },
+   {
+      "Versione": "ESXi 6.7 EP 06",
+      "Nome Release": "ESXi 6.7 EP 06",
+      "Data Rilascio": "2019/01/17",
+      "Build Number": 11675023,
+      "Tipo": "ISO"
+   },
+   {
+      "Versione": "ESXi 6.5 P03",
+      "Nome Release": "ESXi 6.5 P03",
+      "Data Rilascio": "2018/11/29",
+      "Build Number": 10884925,
+      "Tipo": "ISO"
+   },
+   {
+      "Versione": "ESXi 6.7 EP 05",
+      "Nome Release": "ESXi 6.7 EP 05",
+      "Data Rilascio": "2018/11/09",
+      "Build Number": 10764712,
+      "Tipo": "ISO"
+   },
+   {
+      "Versione": "ESXi 6.0 EP 19",
+      "Nome Release": "ESXi600-201811001",
+      "Data Rilascio": "2018/11/09",
+      "Build Number": 10719132,
+      "Tipo": "N/A"
+   },
+   {
+      "Versione": "ESXi 6.5 EP 11",
+      "Nome Release": "ESXi 6.5 EP 11",
+      "Data Rilascio": "2018/11/09",
+      "Build Number": 10719125,
+      "Tipo": "ISO"
+   },
+   {
+      "Versione": "ESXi 6.0 EP 18",
+      "Nome Release": "ESXi600-201810001",
+      "Data Rilascio": "2018/10/23",
+      "Build Number": 10474991,
+      "Tipo": "N/A"
+   },
+   {
+      "Versione": "ESXi 6.5 EP 10",
+      "Nome Release": "ESXi 6.5 EP 10",
+      "Data Rilascio": "2018/10/23",
+      "Build Number": 10390116,
+      "Tipo": "ISO"
+   },
+   {
+      "Versione": "ESXi 6.7 U1",
+      "Nome Release": "ESXi 6.7 U1",
+      "Data Rilascio": "2018/10/16",
+      "Build Number": 10302608,
+      "Tipo": "ISO"
+   },
+   {
+      "Versione": "ESXi 6.7 EP 04",
+      "Nome Release": "ESXi 6.7 EP 04",
+      "Data Rilascio": "2018/10/02",
+      "Build Number": 10176752,
+      "Tipo": "ISO"
+   },
+   {
+      "Versione": "ESXi 6.5 EP 09",
+      "Nome Release": "ESXi 6.5 EP 09",
+      "Data Rilascio": "2018/10/02",
+      "Build Number": 10175896,
+      "Tipo": "ISO"
+   },
+   {
+      "Versione": "ESXi 6.0 EP 17",
+      "Nome Release": "ESXi600-201809001",
+      "Data Rilascio": "2018/09/13",
+      "Build Number": 9919195,
+      "Tipo": "N/A"
+   },
+   {
+      "Versione": "ESXi 6.7 EP 03",
+      "Nome Release": "ESXi 6.7 EP 03",
+      "Data Rilascio": "2018/08/14",
+      "Build Number": 9484548,
+      "Tipo": "ISO"
+   },
+   {
+      "Versione": "ESXi 6.0 EP 15",
+      "Nome Release": "ESXi600-201808001",
+      "Data Rilascio": "2018/08/14",
+      "Build Number": 9313334,
+      "Tipo": "N/A"
+   },
+   {
+      "Versione": "ESXi 6.5 Update 2c",
+      "Nome Release": "ESXi 6.5 Update 2c",
+      "Data Rilascio": "2018/08/14",
+      "Build Number": 9298722,
+      "Tipo": "ISO"
+   },
+   {
+      "Versione": "ESXi 6.0 P07",
+      "Nome Release": "ESXi600-201807001",
+      "Data Rilascio": "2018/07/26",
+      "Build Number": 9239799,
+      "Tipo": "N/A"
+   },
+   {
+      "Versione": "ESXi 6.7 EP 02a",
+      "Nome Release": "ESXi 6.7 EP 02a",
+      "Data Rilascio": "2018/07/26",
+      "Build Number": 9214924,
+      "Tipo": "ISO"
+   },
+   {
+      "Versione": "ESXi 6.7 EP 02",
+      "Nome Release": "ESXi 6.7 EP 02",
+      "Data Rilascio": "2018/06/28",
+      "Build Number": 8941472,
+      "Tipo": "ISO"
+   },
+   {
+      "Versione": "ESXi 6.5 Update 2b",
+      "Nome Release": "ESXi 6.5 Update 2b",
+      "Data Rilascio": "2018/06/28",
+      "Build Number": 8935087,
+      "Tipo": "ISO"
+   },
+   {
+      "Versione": "ESXi 6.0 U3f",
+      "Nome Release": "ESXi600-201806001",
+      "Data Rilascio": "2018/06/28",
+      "Build Number": 8934903,
+      "Tipo": "N/A"
+   },
+   {
+      "Versione": "ESXi 6.5 U2 GA",
+      "Nome Release": "ESXi 6.5 Update 2",
+      "Data Rilascio": "2018/05/03",
+      "Build Number": 8294253,
+      "Tipo": "ISO"
+   },
+   {
+      "Versione": "ESXi 6.7 GA",
+      "Nome Release": "ESXi 6.7 GA",
+      "Data Rilascio": "2018/04/17",
+      "Build Number": 8169922,
+      "Tipo": "ISO"
+   },
+   {
+      "Versione": "ESXi 6.0 U3e",
+      "Nome Release": "ESXi600-201803001",
+      "Data Rilascio": "2018/03/20",
+      "Build Number": 7967664,
+      "Tipo": "N/A"
+   },
+   {
+      "Versione": "ESXi 6.5 Update 1g",
+      "Nome Release": "ESXi 6.5 Update 1g",
+      "Data Rilascio": "2018/03/20",
+      "Build Number": 7967591,
+      "Tipo": "ISO"
+   },
+   {
+      "Versione": "ESXi 6.0 U3d",
+      "Nome Release": "ESXi600-201801001",
+      "Data Rilascio": "2018/01/09",
+      "Build Number": 7504637,
+      "Tipo": "N/A"
+   },
+   {
+      "Versione": "ESXi 6.5 Patch 02",
+      "Nome Release": "ESXi 6.5 Patch 02",
+      "Data Rilascio": "2017/12/19",
+      "Build Number": 7388607,
+      "Tipo": "ISO"
+   },
+   {
+      "Versione": "ESXi 6.0 Patch 6",
+      "Nome Release": "ESXi600-201711001",
+      "Data Rilascio": "2017/11/09",
+      "Build Number": 6921384,
+      "Tipo": "N/A"
+   },
+   {
+      "Versione": "ESXi 6.5 U1 Express Patch 4",
+      "Nome Release": "ESXi 6.5 U1 Express Patch 4",
+      "Data Rilascio": "2017/10/05",
+      "Build Number": 6765664,
+      "Tipo": "ISO"
+   },
+   {
+      "Versione": "ESXi 6.0 Express Patch 11",
+      "Nome Release": "ESXi600-201710001",
+      "Data Rilascio": "2017/10/05",
+      "Build Number": 6765062,
+      "Tipo": "N/A"
+   },
+   {
+      "Versione": "ESXi 6.5 U1",
+      "Nome Release": "ESXi 6.5 Update 1",
+      "Data Rilascio": "2017/07/27",
+      "Build Number": 5969303,
+      "Tipo": "ISO"
+   },
+   {
+      "Versione": "ESXi 6.0 Update 3a (ESXi 6.0 Patch 5)",
+      "Nome Release": "ESXi600-201706001",
+      "Data Rilascio": "2017/06/06",
+      "Build Number": 5572656,
+      "Tipo": "N/A"
+   },
+   {
+      "Versione": "ESXi 6.5.0d",
+      "Nome Release": "ESXi 6.5.0d",
+      "Data Rilascio": "2017/04/18",
+      "Build Number": 5310538,
+      "Tipo": "ISO"
+   },
+   {
+      "Versione": "ESXi 6.0 Express Patch 7c",
+      "Nome Release": "ESXi600-201703003",
+      "Data Rilascio": "2017/03/28",
+      "Build Number": 5251623,
+      "Tipo": "N/A"
+   },
+   {
+      "Versione": "ESXi 6.0 Update 1 (VMSA-2017-0006)",
+      "Nome Release": "ESXi600-201703002",
+      "Data Rilascio": "2017/03/28",
+      "Build Number": 5251621,
+      "Tipo": "N/A"
+   },
+   {
+      "Versione": "ESXi 6.0 Express Patch 7a",
+      "Nome Release": "ESXi600-201703001",
+      "Data Rilascio": "2017/03/28",
+      "Build Number": 5224934,
+      "Tipo": "N/A"
+   },
+   {
+      "Versione": "ESXi 6.5. Express Patch 1a",
+      "Nome Release": "ESXi 6.5. Express Patch 1a",
+      "Data Rilascio": "2017/03/28",
+      "Build Number": 5224529,
+      "Tipo": "ISO"
+   },
+   {
+      "Versione": "ESXi 6.5. Patch 01",
+      "Nome Release": "ESXi 6.5. Patch 01",
+      "Data Rilascio": "2017/03/09",
+      "Build Number": 5146846,
+      "Tipo": "ISO"
+   },
+   {
+      "Versione": "ESXi 6.0 Update 3",
+      "Nome Release": "ESXi 6.0 Update 3",
+      "Data Rilascio": "2017/02/24",
+      "Build Number": 5050593,
+      "Tipo": "N/A"
+   },
+   {
+      "Versione": "ESXi 6.5.0a",
+      "Nome Release": "ESXi 6.5.0a",
+      "Data Rilascio": "2017/02/02",
+      "Build Number": 4887370,
+      "Tipo": "ISO"
+   },
+   {
+      "Versione": "ESXi 6.0 Patch 4",
+      "Nome Release": "ESXi600-201611001",
+      "Data Rilascio": "2016/11/22",
+      "Build Number": 4600944,
+      "Tipo": "N/A"
+   },
+   {
+      "Versione": "ESXi 6.5 GA",
+      "Nome Release": "ESXi 6.5 GA",
+      "Data Rilascio": "2016/11/15",
+      "Build Number": 4564106,
+      "Tipo": "ISO"
+   },
+   {
+      "Versione": "ESXi 6.0 Express Patch 7",
+      "Nome Release": "ESXi600-201610001",
+      "Data Rilascio": "2016/10/17",
+      "Build Number": 4510822,
+      "Tipo": "N/A"
+   },
+   {
+      "Versione": "ESXi 6.0 Patch 3",
+      "Nome Release": "ESXi600-201608001",
+      "Data Rilascio": "2016/08/04",
+      "Build Number": 4192238,
+      "Tipo": "N/A"
+   },
+   {
+      "Versione": "ESXi 6.0 Express Patch 6",
+      "Nome Release": "ESXi600-201605001",
+      "Data Rilascio": "2016/05/12",
+      "Build Number": 3825889,
+      "Tipo": "N/A"
+   },
+   {
+      "Versione": "ESXi 6.0 Update 2",
+      "Nome Release": "ESXi 6.0 Update 2",
+      "Data Rilascio": "2016/03/16",
+      "Build Number": 3620759,
+      "Tipo": "N/A"
+   },
+   {
+      "Versione": "ESXi 6.0 Express Patch 5",
+      "Nome Release": "ESXi600-201602001",
+      "Data Rilascio": "2016/02/23",
+      "Build Number": 3568940,
+      "Tipo": "N/A"
+   },
+   {
+      "Versione": "ESXi 6.0 Update 1b",
+      "Nome Release": "ESXi600-201601001",
+      "Data Rilascio": "2016/01/07",
+      "Build Number": 3380124,
+      "Tipo": "N/A"
+   },
+   {
+      "Versione": "ESXi 6.0 Express Patch 4",
+      "Nome Release": "ESXi600-201511001",
+      "Data Rilascio": "2015/11/25",
+      "Build Number": 3247720,
+      "Tipo": "N/A"
+   },
+   {
+      "Versione": "ESXi 6.0 U1a (Express Patch 3)",
+      "Nome Release": "ESXi600-201510001",
+      "Data Rilascio": "2015/10/06",
+      "Build Number": 3073146,
+      "Tipo": "N/A"
+   },
+   {
+      "Versione": "ESXi 6.0 U1",
+      "Nome Release": "ESXi 6.0 U1",
+      "Data Rilascio": "2015/09/10",
+      "Build Number": 3029758,
+      "Tipo": "N/A"
+   },
+   {
+      "Versione": "ESXi 6.0.0b",
+      "Nome Release": "ESXi600-201507001",
+      "Data Rilascio": "2015/07/07",
+      "Build Number": 2809209,
+      "Tipo": "N/A"
+   },
+   {
+      "Versione": "ESXi 6.0 Express Patch 2",
+      "Nome Release": "ESXi600-201505001",
+      "Data Rilascio": "2015/05/14",
+      "Build Number": 2715440,
+      "Tipo": "N/A"
+   },
+   {
+      "Versione": "ESXi 6.0 Express Patch 1",
+      "Nome Release": "ESXi600-201504001",
+      "Data Rilascio": "2015/04/09",
+      "Build Number": 2615704,
+      "Tipo": "N/A"
+   },
+   {
+      "Versione": "ESXi 6.0 GA",
+      "Nome Release": "ESXi 6.0 GA",
+      "Data Rilascio": "2015/03/12",
+      "Build Number": 2494585,
+      "Tipo": "N/A"
    }
 ]

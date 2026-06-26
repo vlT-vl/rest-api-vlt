@@ -10,6 +10,26 @@
     "link": "https://enterprise.proxmox.com/iso/proxmox-ve_9.2-1.iso"
   },
   {
+    "nome": "Proxmox VE 9.1 ISO",
+    "release": "9.1",
+    "versione": "9.1-1",
+    "tipo": "ISO",
+    "dimensione_file": "1.83 GB",
+    "data_ultimo_aggiornamento": "2025-11-19",
+    "sha256sum": "6d8f5afc78c0c66812d7272cde7c8b98be7eb54401ceb045400db05eb5ae6d22",
+    "link": "https://enterprise.proxmox.com/iso/proxmox-ve_9.1-1.iso"
+  },
+  {
+    "nome": "Proxmox VE 9.0 ISO",
+    "release": "9.0",
+    "versione": "9.0-1",
+    "tipo": "ISO",
+    "dimensione_file": "1.64 GB",
+    "data_ultimo_aggiornamento": "2025-08-05",
+    "sha256sum": "228f948ae696f2448460443f4b619157cab78ee69802acc0d06761ebd4f51c3e",
+    "link": "https://enterprise.proxmox.com/iso/proxmox-ve_9.0-1.iso"
+  },
+  {
     "nome": "Proxmox VE 8.4 ISO",
     "release": "8.4",
     "versione": "8.4-1",
@@ -38,5 +58,15 @@
     "data_ultimo_aggiornamento": "2021-04-28",
     "sha256sum": "ab71b03057fdeea29804f96f0ff4483203b8c7a25957a4f69ed0002b5f34e607",
     "link": "https://www.proxmox.com/images/download/pve/iso/proxmox-ve_6.4-1.iso"
+  },
+  {
+    "nome": "Proxmox VE 5.4 ISO",
+    "release": "5.4",
+    "versione": "5.4-1",
+    "tipo": "ISO",
+    "dimensione_file": "687.08 MB",
+    "data_ultimo_aggiornamento": "2019-04-11",
+    "sha256sum": "6f02cb34d2c8effa49e86a07d27e668dc125dfb1b37ed09ebc26002bf9daf75e",
+    "link": "https://enterprise.proxmox.com/iso/proxmox-ve_5.4-1.iso"
   }
 ]

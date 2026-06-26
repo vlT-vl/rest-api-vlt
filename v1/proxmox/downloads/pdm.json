@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Proxmox Datacenter Manager 1.1 ISO",
+    "release": "1.1",
+    "versione": "1.1-1",
+    "tipo": "ISO",
+    "dimensione_file": "1.46 GB",
+    "data_ultimo_aggiornamento": "2026-05-27",
+    "sha256sum": "11a55a069ba564220bd986241b57920a83781d40be18d6f2bf7b9b12696ae2cc",
+    "link": "https://enterprise.proxmox.com/iso/proxmox-datacenter-manager_1.1-1.iso"
+  },
+  {
     "nome": "Proxmox Datacenter Manager 1.0 ISO",
     "release": "1.0",
     "versione": "1.0-2",
