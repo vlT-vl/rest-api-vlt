@@ -1,0 +1,62 @@
+[
+  {
+    "Versione": "6.0.0.31000",
+    "Nome Release": "vCenter Server 6.0 Update 3i",
+    "Data Rilascio": "2019-05-14",
+    "Build Number": 13638623
+  },
+  {
+    "Versione": "6.0.0.30000",
+    "Nome Release": "vCenter Server 6.0 Update 3",
+    "Data Rilascio": "2017-02-24",
+    "Build Number": 5112529
+  },
+  {
+    "Versione": "6.0.0.20100",
+    "Nome Release": "vCenter Server 6.0 Update 2a",
+    "Data Rilascio": "2016-11-22",
+    "Build Number": 4541948
+  },
+  {
+    "Versione": "6.0.0.20050",
+    "Nome Release": "vCenter Server 6.0 Update 2m",
+    "Data Rilascio": "2016-09-15",
+    "Build Number": 4191365
+  },
+  {
+    "Versione": "6.0.0.20000",
+    "Nome Release": "vCenter Server 6.0 Update 2",
+    "Data Rilascio": "2016-03-15",
+    "Build Number": 3634794
+  },
+  {
+    "Versione": "6.0.0.10200",
+    "Nome Release": "vCenter Server 6.0 Update 1b",
+    "Data Rilascio": "2016-01-07",
+    "Build Number": 3339084
+  },
+  {
+    "Versione": "6.0.0.10000",
+    "Nome Release": "vCenter Server 6.0 Update 1",
+    "Data Rilascio": "2015-09-10",
+    "Build Number": 3018523
+  },
+  {
+    "Versione": "6.0.0.5120",
+    "Nome Release": "vCenter Server 6.0.0b",
+    "Data Rilascio": "2015-07-07",
+    "Build Number": 2776510
+  },
+  {
+    "Versione": "6.0.0.5110",
+    "Nome Release": "vCenter Server 6.0.0a",
+    "Data Rilascio": "2015-04-16",
+    "Build Number": 2656761
+  },
+  {
+    "Versione": "6.0.0.5100",
+    "Nome Release": "vCenter Server 6.0 GA",
+    "Data Rilascio": "2015-03-12",
+    "Build Number": 2559267
+  }
+]

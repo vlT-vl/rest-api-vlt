@@ -1,0 +1,42 @@
+[
+  {
+    "nome": "Proxmox Backup Server 4.2 ISO",
+    "release": "4.2",
+    "versione": "4.2-1",
+    "tipo": "ISO",
+    "dimensione_file": "1.48 GB",
+    "data_ultimo_aggiornamento": "2026-04-28",
+    "sha256sum": "2fb299deac3929253712c9c3dfc9237edbe70af83c8848467616b771a1d5453e",
+    "link": "https://enterprise.proxmox.com/iso/proxmox-backup-server_4.2-1.iso"
+  },
+  {
+    "nome": "Proxmox Backup Server 4.1 ISO",
+    "release": "4.1",
+    "versione": "4.1-1",
+    "tipo": "ISO",
+    "dimensione_file": "1.51 GB",
+    "data_ultimo_aggiornamento": "2025-11-26",
+    "sha256sum": "670f0a71ee25e00cc7839bebb3f399594f5257e49a224a91ce517460e7ab171e",
+    "link": "https://enterprise.proxmox.com/iso/proxmox-backup-server_4.1-1.iso"
+  },
+  {
+    "nome": "Proxmox Backup Server 3.4 ISO",
+    "release": "3.4",
+    "versione": "3.4-1",
+    "tipo": "ISO",
+    "dimensione_file": "1.31 GB",
+    "data_ultimo_aggiornamento": "2025-04-10",
+    "sha256sum": "ed4777f570f2589843765fff9e942288ff16a6cc3728655733899188479b7e08",
+    "link": "https://enterprise.proxmox.com/iso/proxmox-backup-server_3.4-1.iso"
+  },
+  {
+    "nome": "Proxmox Backup Server 2.4 ISO",
+    "release": "2.4",
+    "versione": "2.4-1",
+    "tipo": "ISO",
+    "dimensione_file": "822.06 MB",
+    "data_ultimo_aggiornamento": "2023-07-03",
+    "sha256sum": "721e21a88ae93dba73ca3e4a494b438190acadb99993ec755a19e721a86f0395",
+    "link": "https://enterprise.proxmox.com/iso/proxmox-backup-server_2.4-1.iso"
+  }
+]

@@ -1,0 +1,218 @@
+[
+   {
+      "Versione":"6.7.0.58000",
+      "Nome Release":"vCenter Server 6.7 Update 3w",
+      "Data Rilascio":"2024-10-28",
+      "Build Number":24337536
+   },
+   {
+      "Versione":"6.7.0.57000",
+      "Nome Release":"vCenter Server 6.7 Update 3v",
+      "Data Rilascio":"2024-09-30",
+      "Build Number":24279831
+   },
+   {
+      "Versione":"6.7.0.56000",
+      "Nome Release":"vCenter Server 6.7 Update 3u",
+      "Data Rilascio":"2024-07-04",
+      "Build Number":24045282
+   },
+   {
+      "Versione":"6.7.0.55000",
+      "Nome Release":"vCenter Server 6.7 Update 3t",
+      "Data Rilascio":"2023-10-24",
+      "Build Number":22509723
+   },
+   {
+      "Versione":"6.7.0.54000",
+      "Nome Release":"vCenter Server 6.7 Update 3s",
+      "Data Rilascio":"2022-10-06",
+      "Build Number":20540798
+   },
+   {
+      "Versione":"6.7.0.53000",
+      "Nome Release":"vCenter Server 6.7 Update 3r",
+      "Data Rilascio":"2022-07-12",
+      "Build Number":19832974
+   },
+   {
+      "Versione":"6.7.0.52000",
+      "Nome Release":"vCenter Server 6.7 Update 3q",
+      "Data Rilascio":"2022-02-08",
+      "Build Number":19300125
+   },
+   {
+      "Versione":"6.7.0.51000",
+      "Nome Release":"vCenter Server 6.7 Update 3p",
+      "Data Rilascio":"2021-11-23",
+      "Build Number":18831133
+   },
+   {
+      "Versione":"6.7.0.50000",
+      "Nome Release":"vCenter Server 6.7 Update 3o",
+      "Data Rilascio":"2021-09-21",
+      "Build Number":18485166
+   },
+   {
+      "Versione":"6.7.0.48000",
+      "Nome Release":"vCenter Server 6.7 Update 3n",
+      "Data Rilascio":"2021-05-25",
+      "Build Number":18010531
+   },
+   {
+      "Versione":"6.7.0.47000",
+      "Nome Release":"vCenter Server 6.7 Update 3m",
+      "Data Rilascio":"2021-03-18",
+      "Build Number":17713310
+   },
+   {
+      "Versione":"6.7.0.46000",
+      "Nome Release":"vCenter Server 6.7 Update 3l",
+      "Data Rilascio":"2020-11-19",
+      "Build Number":17138064
+   },
+   {
+      "Versione":"6.7.0.45100",
+      "Nome Release":"vCenter Server 6.7 Update 3k",
+      "Data Rilascio":"2020-10-22",
+      "Build Number":17028579
+   },
+   {
+      "Versione":"6.7.0.45000",
+      "Nome Release":"vCenter Server 6.7 Update 3j",
+      "Data Rilascio":"2020-08-20",
+      "Build Number":16708996
+   },
+   {
+      "Versione":"6.7.0.44200",
+      "Nome Release":"vCenter Server 6.7 Update 3i",
+      "Data Rilascio":"2020-07-30",
+      "Build Number":16616482
+   },
+   {
+      "Versione":"6.7.0.44100",
+      "Nome Release":"vCenter Server 6.7 Update 3h",
+      "Data Rilascio":"2020-05-28",
+      "Build Number":16275304
+   },
+   {
+      "Versione":"6.7.0.44000",
+      "Nome Release":"vCenter Server 6.7 Update 3g",
+      "Data Rilascio":"2020-04-28",
+      "Build Number":16046470
+   },
+   {
+      "Versione":"6.7.0.43000",
+      "Nome Release":"vCenter Server 6.7 Update 3f",
+      "Data Rilascio":"2020-04-09",
+      "Build Number":15976714
+   },
+   {
+      "Versione":"6.7.0.42300",
+      "Nome Release":"vCenter Server 6.7 Update 3e",
+      "Data Rilascio":"2020-03-26",
+      "Build Number":15808844
+   },
+   {
+      "Versione":"6.7.0.42200",
+      "Nome Release":"vCenter Server 6.7 Update 3d",
+      "Data Rilascio":"2020-02-27",
+      "Build Number":15679281
+   },
+   {
+      "Versione":"6.7.0.42100",
+      "Nome Release":"vCenter Server 6.7 Update 3c",
+      "Data Rilascio":"2020-01-30",
+      "Build Number":15505668
+   },
+   {
+      "Versione":"6.7.0.42000",
+      "Nome Release":"vCenter Server 6.7 Update 3b",
+      "Data Rilascio":"2019-12-05",
+      "Build Number":15132721
+   },
+   {
+      "Versione":"6.7.0.41000",
+      "Nome Release":"vCenter Server 6.7 Update 3a",
+      "Data Rilascio":"2019-10-24",
+      "Build Number":14836122
+   },
+   {
+      "Versione":"6.7.0.40000",
+      "Nome Release":"vCenter Server 6.7 Update 3",
+      "Data Rilascio":"2019-08-20",
+      "Build Number":14367737
+   },
+   {
+      "Versione":"6.7.0.32000",
+      "Nome Release":"vCenter Server 6.7 Update 2c",
+      "Data Rilascio":"2019-07-16",
+      "Build Number":14070457
+   },
+   {
+      "Versione":"6.7.0.31100",
+      "Nome Release":"vCenter Server 6.7 Update 2b",
+      "Data Rilascio":"2019-05-30",
+      "Build Number":13843380
+   },
+   {
+      "Versione":"6.7.0.31000",
+      "Nome Release":"vCenter Server 6.7 Update 2a",
+      "Data Rilascio":"2019-05-14",
+      "Build Number":13643870
+   },
+   {
+      "Versione":"6.7.0.30000",
+      "Nome Release":"vCenter Server 6.7 Update 2",
+      "Data Rilascio":"2019-04-11",
+      "Build Number":13010631
+   },
+   {
+      "Versione":"6.7.0.21000",
+      "Nome Release":"vCenter Server 6.7 Update 1b",
+      "Data Rilascio":"2019-01-17",
+      "Build Number":11726888
+   },
+   {
+      "Versione":"6.7.0.20100",
+      "Nome Release":"vCenter Server 6.7 Update 1a",
+      "Data Rilascio":"2018-12-20",
+      "Build Number":11338176
+   },
+   {
+      "Versione":"6.7.0.20000",
+      "Nome Release":"vCenter Server 6.7 Update 1",
+      "Data Rilascio":"2018-10-16",
+      "Build Number":10244745
+   },
+   {
+      "Versione":"6.7.0.14000",
+      "Nome Release":"vCenter Server 6.7d",
+      "Data Rilascio":"2018-08-14",
+      "Build Number":9451876
+   },
+   {
+      "Versione":"6.7.0.13000",
+      "Nome Release":"vCenter Server 6.7c",
+      "Data Rilascio":"2018-07-26",
+      "Build Number":9232925
+   },
+   {
+      "Versione":"6.7.0.12000",
+      "Nome Release":"vCenter Server 6.7b",
+      "Data Rilascio":"2018-06-28",
+      "Build Number":8832884
+   },
+   {
+      "Versione":"6.7.0.11000",
+      "Nome Release":"vCenter Server 6.7a",
+      "Data Rilascio":"2018-05-22",
+      "Build Number":8546234
+   },
+   {
+      "Versione":"6.7.0.10000",
+      "Nome Release":"vCenter Server 6.7",
+      "Data Rilascio":"2018-04-17",
+      "Build Number":8217866
+   }
+]

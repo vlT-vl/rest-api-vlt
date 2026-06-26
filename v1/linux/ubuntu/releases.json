@@ -1,0 +1,310 @@
+[
+   {
+      "Nome Release":"Ubuntu 26.04",
+      "Versione":"26.04",
+      "Codename":"Resolute Raccoon",
+      "Data Rilascio":"2026-04-23",
+      "End Of Support":"2031-05-31"
+   },
+   {
+      "Nome Release":"Ubuntu 25.10",
+      "Versione":"25.10",
+      "Codename":"Pensive Pangolin",
+      "Data Rilascio":"2025-10-16",
+      "End Of Support":"2026-07-16"
+   },
+   {
+      "Nome Release":"Ubuntu 25.04",
+      "Versione":"25.04",
+      "Codename":"Plucky Puffin",
+      "Data Rilascio":"2025-04-17",
+      "End Of Support":"2026-01-17"
+   },
+   {
+      "Nome Release":"Ubuntu 24.10",
+      "Versione":"24.10",
+      "Codename":"Oracular Oriole",
+      "Data Rilascio":"2024-10-10",
+      "End Of Support":"2025-07-10"
+   },
+   {
+      "Nome Release":"Ubuntu 24.04",
+      "Versione":"24.04",
+      "Codename":"Noble Numbat",
+      "Data Rilascio":"2024-04-25",
+      "End Of Support":"2029-04-25"
+   },
+   {
+      "Nome Release":"Ubuntu 23.10",
+      "Versione":"23.10",
+      "Codename":"Mantic Minotaur",
+      "Data Rilascio":"2023-10-12",
+      "End Of Support":"2024-07-12"
+   },
+   {
+      "Nome Release":"Ubuntu 23.04",
+      "Versione":"23.04",
+      "Codename":"Lunar Lobster",
+      "Data Rilascio":"2023-04-20",
+      "End Of Support":"2024-01-20"
+   },
+   {
+      "Nome Release":"Ubuntu 22.10",
+      "Versione":"22.10",
+      "Codename":"Kinetic Kudu",
+      "Data Rilascio":"2022-10-20",
+      "End Of Support":"2023-07-20"
+   },
+   {
+      "Nome Release":"Ubuntu 22.04",
+      "Versione":"22.04",
+      "Codename":"Jammy Jellyfish",
+      "Data Rilascio":"2022-04-21",
+      "End Of Support":"2027-04-21"
+   },
+   {
+      "Nome Release":"Ubuntu 21.10",
+      "Versione":"21.10",
+      "Codename":"Impish Indri",
+      "Data Rilascio":"2021-10-14",
+      "End Of Support":"2022-07-14"
+   },
+   {
+      "Nome Release":"Ubuntu 21.04",
+      "Versione":"21.04",
+      "Codename":"Hirsute Hippo",
+      "Data Rilascio":"2021-04-22",
+      "End Of Support":"2022-01-22"
+   },
+   {
+      "Nome Release":"Ubuntu 20.10",
+      "Versione":"20.10",
+      "Codename":"Groovy Gorilla",
+      "Data Rilascio":"2020-10-22",
+      "End Of Support":"2021-07-22"
+   },
+   {
+      "Nome Release":"Ubuntu 20.04",
+      "Versione":"20.04",
+      "Codename":"Focal Fossa",
+      "Data Rilascio":"2020-04-23",
+      "End Of Support":"2025-04-23"
+   },
+   {
+      "Nome Release":"Ubuntu 19.10",
+      "Versione":"19.10",
+      "Codename":"Eoan Ermine",
+      "Data Rilascio":"2019-10-17",
+      "End Of Support":"2020-07-17"
+   },
+   {
+      "Nome Release":"Ubuntu 19.04",
+      "Versione":"19.04",
+      "Codename":"Disco Dingo",
+      "Data Rilascio":"2019-04-18",
+      "End Of Support":"2020-01-18"
+   },
+   {
+      "Nome Release":"Ubuntu 18.10",
+      "Versione":"18.10",
+      "Codename":"Cosmic Cuttlefish",
+      "Data Rilascio":"2018-10-18",
+      "End Of Support":"2019-07-18"
+   },
+   {
+      "Nome Release":"Ubuntu 18.04",
+      "Versione":"18.04",
+      "Codename":"Bionic Beaver",
+      "Data Rilascio":"2018-04-26",
+      "End Of Support":"2023-04-26"
+   },
+   {
+      "Nome Release":"Ubuntu 17.10",
+      "Versione":"17.10",
+      "Codename":"Artful Aardvark",
+      "Data Rilascio":"2017-10-19",
+      "End Of Support":"2018-07-19"
+   },
+   {
+      "Nome Release":"Ubuntu 17.04",
+      "Versione":"17.04",
+      "Codename":"Zesty Zapus",
+      "Data Rilascio":"2017-04-13",
+      "End Of Support":"2018-01-13"
+   },
+   {
+      "Nome Release":"Ubuntu 16.10",
+      "Versione":"16.10",
+      "Codename":"Yakkety Yak",
+      "Data Rilascio":"2016-10-13",
+      "End Of Support":"2017-07-13"
+   },
+   {
+      "Nome Release":"Ubuntu 16.04",
+      "Versione":"16.04",
+      "Codename":"Xenial Xerus",
+      "Data Rilascio":"2016-04-21",
+      "End Of Support":"2021-04-21"
+   },
+   {
+      "Nome Release":"Ubuntu 15.10",
+      "Versione":"15.10",
+      "Codename":"Wily Werewolf",
+      "Data Rilascio":"2015-10-22",
+      "End Of Support":"2016-07-22"
+   },
+   {
+      "Nome Release":"Ubuntu 15.04",
+      "Versione":"15.04",
+      "Codename":"Vivid Vervet",
+      "Data Rilascio":"2015-04-23",
+      "End Of Support":"2016-01-23"
+   },
+   {
+      "Nome Release":"Ubuntu 14.10",
+      "Versione":"14.10",
+      "Codename":"Utopic Unicorn",
+      "Data Rilascio":"2014-10-23",
+      "End Of Support":"2015-07-23"
+   },
+   {
+      "Nome Release":"Ubuntu 14.04",
+      "Versione":"14.04",
+      "Codename":"Trusty Tahr",
+      "Data Rilascio":"2014-04-17",
+      "End Of Support":"2019-04-17"
+   },
+   {
+      "Nome Release":"Ubuntu 13.10",
+      "Versione":"13.10",
+      "Codename":"Saucy Salamander",
+      "Data Rilascio":"2013-10-17",
+      "End Of Support":"2014-07-17"
+   },
+   {
+      "Nome Release":"Ubuntu 13.04",
+      "Versione":"13.04",
+      "Codename":"Raring Ringtail",
+      "Data Rilascio":"2013-04-25",
+      "End Of Support":"2014-01-25"
+   },
+   {
+      "Nome Release":"Ubuntu 12.10",
+      "Versione":"12.10",
+      "Codename":"Quantal Quetzal",
+      "Data Rilascio":"2012-10-18",
+      "End Of Support":"2014-05-16"
+   },
+   {
+      "Nome Release":"Ubuntu 12.04",
+      "Versione":"12.04",
+      "Codename":"Precise Pangolin",
+      "Data Rilascio":"2012-04-26",
+      "End Of Support":"2017-04-26"
+   },
+   {
+      "Nome Release":"Ubuntu 11.10",
+      "Versione":"11.10",
+      "Codename":"Oneiric Ocelot",
+      "Data Rilascio":"2011-10-13",
+      "End Of Support":"2013-05-09"
+   },
+   {
+      "Nome Release":"Ubuntu 11.04",
+      "Versione":"11.04",
+      "Codename":"Natty Narwhal",
+      "Data Rilascio":"2011-04-28",
+      "End Of Support":"2012-10-28"
+   },
+   {
+      "Nome Release":"Ubuntu 10.10",
+      "Versione":"10.10",
+      "Codename":"Maverick Meerkat",
+      "Data Rilascio":"2010-10-10",
+      "End Of Support":"2012-04-10"
+   },
+   {
+      "Nome Release":"Ubuntu 10.04",
+      "Versione":"10.04",
+      "Codename":"Lucid Lynx",
+      "Data Rilascio":"2010-04-29",
+      "End Of Support":"2015-04-29"
+   },
+   {
+      "Nome Release":"Ubuntu 9.10",
+      "Versione":"9.10",
+      "Codename":"Karmic Koala",
+      "Data Rilascio":"2009-10-29",
+      "End Of Support":"2011-04-30"
+   },
+   {
+      "Nome Release":"Ubuntu 9.04",
+      "Versione":"9.04",
+      "Codename":"Jaunty Jackalope",
+      "Data Rilascio":"2009-04-23",
+      "End Of Support":"2010-10-23"
+   },
+   {
+      "Nome Release":"Ubuntu 8.10",
+      "Versione":"8.10",
+      "Codename":"Intrepid Ibex",
+      "Data Rilascio":"2008-10-30",
+      "End Of Support":"2010-04-30"
+   },
+   {
+      "Nome Release":"Ubuntu 8.04",
+      "Versione":"8.04",
+      "Codename":"Hardy Heron",
+      "Data Rilascio":"2008-04-24",
+      "End Of Support":"2013-04-24"
+   },
+   {
+      "Nome Release":"Ubuntu 7.10",
+      "Versione":"7.10",
+      "Codename":"Gutsy Gibbon",
+      "Data Rilascio":"2007-10-18",
+      "End Of Support":"2009-04-18"
+   },
+   {
+      "Nome Release":"Ubuntu 7.04",
+      "Versione":"7.04",
+      "Codename":"Feisty Fawn",
+      "Data Rilascio":"2007-04-19",
+      "End Of Support":"2008-10-19"
+   },
+   {
+      "Nome Release":"Ubuntu 6.10",
+      "Versione":"6.10",
+      "Codename":"Edgy Eft",
+      "Data Rilascio":"2006-10-26",
+      "End Of Support":"2008-04-26"
+   },
+   {
+      "Nome Release":"Ubuntu 6.06",
+      "Versione":"6.06",
+      "Codename":"Dapper Drake",
+      "Data Rilascio":"2006-06-01",
+      "End Of Support":"2011-06-01"
+   },
+   {
+      "Nome Release":"Ubuntu 5.10",
+      "Versione":"5.10",
+      "Codename":"Breezy Badger",
+      "Data Rilascio":"2005-10-13",
+      "End Of Support":"2007-04-13"
+   },
+   {
+      "Nome Release":"Ubuntu 5.04",
+      "Versione":"5.04",
+      "Codename":"Hoary Hedgehog",
+      "Data Rilascio":"2005-04-08",
+      "End Of Support":"2006-10-31"
+   },
+   {
+      "Nome Release":"Ubuntu 4.10",
+      "Versione":"4.10",
+      "Codename":"Warty Warthog",
+      "Data Rilascio":"2004-10-20",
+      "End Of Support":"2006-04-30"
+   }
+]

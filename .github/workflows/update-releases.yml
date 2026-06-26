@@ -1,0 +1,83 @@
+name: Update Releases
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: api
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: Fetch Kubernetes releases
+        run: node scripts/fetch-kubernetes.js
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Fetch Ubuntu releases
+        run: node scripts/fetch-ubuntu.js
+        continue-on-error: true
+
+      - name: Fetch Rocky Linux releases
+        run: node scripts/fetch-rocky.js
+        continue-on-error: true
+
+      - name: Fetch Debian releases
+        run: node scripts/fetch-debian.js
+        continue-on-error: true
+
+      - name: Fetch RHEL releases
+        run: node scripts/fetch-rhel.js
+        continue-on-error: true
+
+      - name: Fetch Fedora releases
+        run: node scripts/fetch-fedora.js
+        continue-on-error: true
+
+      - name: Fetch VMware ESXi releases
+        run: node scripts/fetch-vmware-esxi.js
+        continue-on-error: true
+
+      - name: Fetch VMware vCenter releases
+        run: node scripts/fetch-vmware-vcenter.js
+        continue-on-error: true
+
+      - name: Fetch Proxmox PVE releases
+        run: node scripts/fetch-proxmox-pve.js
+        continue-on-error: true
+
+      - name: Fetch Proxmox PBS releases
+        run: node scripts/fetch-proxmox-pbs.js
+        continue-on-error: true
+
+      - name: Fetch Proxmox PDM releases
+        run: node scripts/fetch-proxmox-pdm.js
+        continue-on-error: true
+
+      - name: Fetch Proxmox ISO downloads
+        run: node scripts/fetch-proxmox-iso.js
+        continue-on-error: true
+
+      - name: Commit changes if any
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet; then
+            echo "No changes detected — skipping commit."
+          else
+            git add v1/
+            git commit -m "chore: auto-update releases $(date +%Y-%m-%d)"
+            git push
+          fi

@@ -1,0 +1,226 @@
+[
+   {
+      "Versione":"ESXi 7.0.3 EP14",
+      "Nome Release":"ESXi 7.0 Update 3w",
+      "Data Rilascio":"2025/07/15",
+      "Build Number":24784741,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 7.0.3 P10",
+      "Nome Release":"ESXi 7.0 Update 3v",
+      "Data Rilascio":"2025/05/20",
+      "Build Number":24723872,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 7.0.3 EP13",
+      "Nome Release":"ESXi 7.0 Update 3s",
+      "Data Rilascio":"2025/03/04",
+      "Build Number":24585291,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 7.0.3 EP12",
+      "Nome Release":"ESXi 7.0 Update 3r",
+      "Data Rilascio":"2024/12/12",
+      "Build Number":24411414,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 7.0.3 P09",
+      "Nome Release":"ESXi 7.0 Update 3q",
+      "Data Rilascio":"2024/05/21",
+      "Build Number":23794027,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 7.0.3 EP11",
+      "Nome Release":"ESXi 7.0 Update 3p",
+      "Data Rilascio":"2024/04/11",
+      "Build Number":23307199,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 7.0.3 P08",
+      "Nome Release":"ESXi 7.0 Update 3o",
+      "Data Rilascio":"2023/09/28",
+      "Build Number":22348816,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 7.0.3 EP10",
+      "Nome Release":"ESXi 7.0 Update 3n",
+      "Data Rilascio":"2023/07/07",
+      "Build Number":21930508,
+      "Tipo":"ISO"
+   },
+   {
+      "Versione":"ESXi 7.0.3 EP9",
+      "Nome Release":"ESXi 7.0 Update 3m",
+      "Data Rilascio":"2023/05/03",
+      "Build Number":21686933,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 7.0.3 P07",
+      "Nome Release":"ESXi 7.0 Update 3l",
+      "Data Rilascio":"2023/03/30",
+      "Build Number":21424296,
+      "Tipo":"ISO"
+   },
+   {
+      "Versione":"ESXi 7.0.3 EP8",
+      "Nome Release":"ESXi 7.0 Update 3k",
+      "Data Rilascio":"2023/02/21",
+      "Build Number":21313628,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 7.0.3 EP7",
+      "Nome Release":"ESXi 7.0 Update 3j",
+      "Data Rilascio":"2023/01/31",
+      "Build Number":21053776,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 7.0.3 P06",
+      "Nome Release":"ESXi 7.0 Update 3i",
+      "Data Rilascio":"2022/12/08",
+      "Build Number":20842708,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 7.0.3 EP5",
+      "Nome Release":"ESXi 7.0 Update 3g",
+      "Data Rilascio":"2022/09/01",
+      "Build Number":20328353,
+      "Tipo":"ISO"
+   },
+   {
+      "Versione":"ESXi 7.0.3 P05",
+      "Nome Release":"ESXi 7.0 Update 3f",
+      "Data Rilascio":"2022/07/12",
+      "Build Number":20036589,
+      "Tipo":"ISO"
+   },
+   {
+      "Versione":"ESXi 7.0.3 EP4",
+      "Nome Release":"ESXi 7.0 Update 3e",
+      "Data Rilascio":"2022/06/14",
+      "Build Number":19898904,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 7.0.3 P04",
+      "Nome Release":"ESXi 7.0 Update 3d",
+      "Data Rilascio":"2022/03/29",
+      "Build Number":19482537,
+      "Tipo":"ISO"
+   },
+   {
+      "Versione":"ESXi 7.0.3 U3c",
+      "Nome Release":"ESXi 7.0 Update 3c",
+      "Data Rilascio":"2022/01/27",
+      "Build Number":19193900,
+      "Tipo":"ISO"
+   },
+   {
+      "Versione":"ESXi 7.0.3",
+      "Nome Release":"ESXi 7.0 Update 3",
+      "Data Rilascio":"2021/10/05",
+      "Build Number":18644231,
+      "Tipo":"ISO"
+   },
+   {
+      "Versione":"ESXi 7.0.2 EP3",
+      "Nome Release":"ESXi 7.0 Update 2e",
+      "Data Rilascio":"2022/02/15",
+      "Build Number":19290878,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 7.0.2 EP2",
+      "Nome Release":"ESXi 7.0 Update 2d",
+      "Data Rilascio":"2021/09/14",
+      "Build Number":18538813,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 7.0.2 P03",
+      "Nome Release":"ESXi 7.0 Update 2c",
+      "Data Rilascio":"2021/08/24",
+      "Build Number":18426014,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 7.0.2 EP1",
+      "Nome Release":"ESXi 7.0 Update 2a",
+      "Data Rilascio":"2021/04/29",
+      "Build Number":17867351,
+      "Tipo":"ISO"
+   },
+   {
+      "Versione":"ESXi 7.0.2",
+      "Nome Release":"ESXi 7.0 Update 2",
+      "Data Rilascio":"2021/03/09",
+      "Build Number":17630552,
+      "Tipo":"ISO"
+   },
+   {
+      "Versione":"ESXi 7.0.1 EP4",
+      "Nome Release":"ESXi 7.0 Update 1e",
+      "Data Rilascio":"2022/02/15",
+      "Build Number":19324898,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 7.0.1 EP3",
+      "Nome Release":"ESXi 7.0 Update 1d",
+      "Data Rilascio":"2021/02/02",
+      "Build Number":17551050,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 7.0.1 P02",
+      "Nome Release":"ESXi 7.0 Update 1c",
+      "Data Rilascio":"2020/12/17",
+      "Build Number":17325551,
+      "Tipo":"ISO"
+   },
+   {
+      "Versione":"ESXi 7.0.1 EP2",
+      "Nome Release":"ESXi 7.0 Update 1b",
+      "Data Rilascio":"2020/11/19",
+      "Build Number":17168206,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 7.0.1 EP1",
+      "Nome Release":"ESXi 7.0 Update 1a",
+      "Data Rilascio":"2020/11/04",
+      "Build Number":17119627,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 7.0.1",
+      "Nome Release":"ESXi 7.0 Update 1",
+      "Data Rilascio":"2020/10/06",
+      "Build Number":16850804,
+      "Tipo":"ISO"
+   },
+   {
+      "Versione":"ESXi 7.0.0 P01",
+      "Nome Release":"ESXi 7.0b",
+      "Data Rilascio":"2020/06/23",
+      "Build Number":16324942,
+      "Tipo":"ISO"
+   },
+   {
+      "Versione":"ESXi 7.0.0",
+      "Nome Release":"ESXi 7.0 GA",
+      "Data Rilascio":"2020/04/02",
+      "Build Number":15843807,
+      "Tipo":"ISO"
+   }
+]

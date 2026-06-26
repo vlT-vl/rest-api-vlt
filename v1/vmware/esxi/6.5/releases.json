@@ -1,0 +1,268 @@
+[
+   {
+      "Versione":"ESXi 6.5 P09",
+      "Nome Release":"ESXi650-202210001",
+      "Data Rilascio":"2022/10/06",
+      "Build Number":20502893,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.5 EP27",
+      "Nome Release":"ESXi650-202207001",
+      "Data Rilascio":"2022/07/12",
+      "Build Number":19997716,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.5 P08",
+      "Nome Release":"ESXi650-202205001",
+      "Data Rilascio":"2022/05/12",
+      "Build Number":19588618,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.5 EP26",
+      "Nome Release":"ESXi650-202202001",
+      "Data Rilascio":"2022/02/15",
+      "Build Number":19092475,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.5 P07",
+      "Nome Release":"ESXi650-202110001",
+      "Data Rilascio":"2021/10/12",
+      "Build Number":18678235,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.5 EP 24",
+      "Nome Release":"ESXi650-202107001",
+      "Data Rilascio":"2021/07/13",
+      "Build Number":18071574,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.5 P06",
+      "Nome Release":"ESXi650-202102001",
+      "Data Rilascio":"2021/02/23",
+      "Build Number":17477841,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.5 EP 23",
+      "Nome Release":"ESXi 650-202011002",
+      "Data Rilascio":"2020/11/19",
+      "Build Number":17167537,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.5 EP 22",
+      "Nome Release":"ESXi650-202011001",
+      "Data Rilascio":"2020/11/04",
+      "Build Number":17097218,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.5 EP 21",
+      "Nome Release":"ESXi650-202010001",
+      "Data Rilascio":"2020/10/15",
+      "Build Number":16901156,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.5 P05",
+      "Nome Release":"ESXi650-202007001",
+      "Data Rilascio":"2020/07/30",
+      "Build Number":16576891,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.5 EP 20",
+      "Nome Release":"ESXi650-202006001",
+      "Data Rilascio":"2020/06/30",
+      "Build Number":16389870,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.5 EP 19",
+      "Nome Release":"ESXi650-202005001",
+      "Data Rilascio":"2020/05/28",
+      "Build Number":16207673,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.5 P04",
+      "Nome Release":"ESXi650-201912002",
+      "Data Rilascio":"2019/12/19",
+      "Build Number":15256549,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.5 EP 18",
+      "Nome Release":"ESXi650-201912001",
+      "Data Rilascio":"2019/12/05",
+      "Build Number":15177306,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.5 EP 17",
+      "Nome Release":"ESXi650-201911001",
+      "Data Rilascio":"2019/11/12",
+      "Build Number":14990892,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.5 EP 16",
+      "Nome Release":"ESXi650-201910001",
+      "Data Rilascio":"2019/10/24",
+      "Build Number":14874964,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.5 EP 15 (Update 3a)",
+      "Nome Release":"ESXi650-201908001",
+      "Data Rilascio":"2019/08/20",
+      "Build Number":14320405,
+      "Tipo":"ISO"
+   },
+   {
+      "Versione":"ESXi 6.5 Update 3",
+      "Nome Release":"ESXi 6.5 Update 3",
+      "Data Rilascio":"2019/07/02",
+      "Build Number":13932383,
+      "Tipo":"ISO"
+   },
+   {
+      "Versione":"ESXi 6.5 EP 14",
+      "Nome Release":"ESXi650-201905001",
+      "Data Rilascio":"2019/05/14",
+      "Build Number":13635690,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.5 EP 13",
+      "Nome Release":"ESXi650-201903001",
+      "Data Rilascio":"2019/03/28",
+      "Build Number":13004031,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.5 EP 12",
+      "Nome Release":"ESXi650-201901001",
+      "Data Rilascio":"2019/01/31",
+      "Build Number":11925212,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.5 P03",
+      "Nome Release":"ESXi650-201811002",
+      "Data Rilascio":"2018/11/29",
+      "Build Number":10884925,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.5 EP 11",
+      "Nome Release":"ESXi650-201811001",
+      "Data Rilascio":"2018/11/09",
+      "Build Number":10719125,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.5 EP 10",
+      "Nome Release":"ESXi650-201810002",
+      "Data Rilascio":"2018/10/23",
+      "Build Number":10390116,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.5 EP 09",
+      "Nome Release":"ESXi650-201810001",
+      "Data Rilascio":"2018/10/02",
+      "Build Number":10175896,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.5 Update 2c",
+      "Nome Release":"ESXi650-201808001",
+      "Data Rilascio":"2018/08/14",
+      "Build Number":9298722,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.5 Update 2b",
+      "Nome Release":"ESXi650-201806001",
+      "Data Rilascio":"2018/06/28",
+      "Build Number":8935087,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.5 Update 2",
+      "Nome Release":"ESXi 6.5 U2 GA",
+      "Data Rilascio":"2018/05/03",
+      "Build Number":8294253,
+      "Tipo":"ISO"
+   },
+   {
+      "Versione":"ESXi 6.5 Update 1g",
+      "Nome Release":"ESXi650-201803001",
+      "Data Rilascio":"2018/03/20",
+      "Build Number":7967591,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.5 Patch 02",
+      "Nome Release":"ESXi650-201712001",
+      "Data Rilascio":"2017/12/19",
+      "Build Number":7388607,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.5 U1 Express Patch 4",
+      "Nome Release":"ESXi650-201710001",
+      "Data Rilascio":"2017/10/05",
+      "Build Number":6765664,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.5 Update 1",
+      "Nome Release":"ESXi 6.5 U1",
+      "Data Rilascio":"2017/07/27",
+      "Build Number":5969303,
+      "Tipo":"ISO"
+   },
+   {
+      "Versione":"ESXi 6.5.0d",
+      "Nome Release":"ESXi650-201704001",
+      "Data Rilascio":"2017/04/18",
+      "Build Number":5310538,
+      "Tipo":"ISO"
+   },
+   {
+      "Versione":"ESXi 6.5. Express Patch 1a",
+      "Nome Release":"ESXi650-201703002",
+      "Data Rilascio":"2017/03/28",
+      "Build Number":5224529,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.5. Patch 01",
+      "Nome Release":"ESXi650-201703001",
+      "Data Rilascio":"2017/03/09",
+      "Build Number":5146846,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.5.0a",
+      "Nome Release":"ESXi650-201701001",
+      "Data Rilascio":"2017/02/02",
+      "Build Number":4887370,
+      "Tipo":"ISO"
+   },
+   {
+      "Versione":"ESXi 6.5 GA",
+      "Nome Release":"ESXi 6.5 GA",
+      "Data Rilascio":"2016/11/15",
+      "Build Number":4564106,
+      "Tipo":"ISO"
+   }
+]

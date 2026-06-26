@@ -1,0 +1,212 @@
+[
+   {
+      "Versione":"ESXi 6.7 P08",
+      "Nome Release":"ESXi670-202210001",
+      "Data Rilascio":"2022/10/06",
+      "Build Number":20497097,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.7 EP 24",
+      "Nome Release":"ESXi670-202207001",
+      "Data Rilascio":"2022/07/12",
+      "Build Number":19997733,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.7 P07",
+      "Nome Release":"ESXi670-202206001",
+      "Data Rilascio":"2022/06/14",
+      "Build Number":19898906,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.7 EP 23",
+      "Nome Release":"ESXi670-202201001",
+      "Data Rilascio":"2022/01/25",
+      "Build Number":19195723,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.7 P06",
+      "Nome Release":"ESXi670-202111001",
+      "Data Rilascio":"2021/11/23",
+      "Build Number":18828794,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.7 P05",
+      "Nome Release":"ESXi670-202103001",
+      "Data Rilascio":"2021/03/18",
+      "Build Number":17700523,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.7 EP 18",
+      "Nome Release":"ESXi670-202102001",
+      "Data Rilascio":"2021/02/23",
+      "Build Number":17499825,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.7 P04",
+      "Nome Release":"ESXi 670-202011002",
+      "Data Rilascio":"2020/11/19",
+      "Build Number":17167734,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.7 EP 17",
+      "Nome Release":"ESXi670-202011001",
+      "Data Rilascio":"2020/11/04",
+      "Build Number":17098360,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.7 EP 16",
+      "Nome Release":"ESXi670-202010001",
+      "Data Rilascio":"2020/10/15",
+      "Build Number":16773714,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.7 P03",
+      "Nome Release":"ESXi670-202008001",
+      "Data Rilascio":"2020/08/20",
+      "Build Number":16713306,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.7 EP 15",
+      "Nome Release":"ESXi670-202006001",
+      "Data Rilascio":"2020/06/09",
+      "Build Number":16316930,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.7 P02",
+      "Nome Release":"ESXi670-202004002",
+      "Data Rilascio":"2020/04/28",
+      "Build Number":16075168,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.7 EP 14",
+      "Nome Release":"ESXi670-202004001",
+      "Data Rilascio":"2020/04/07",
+      "Build Number":15820472,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.7 P01 (Update 3b)",
+      "Nome Release":"ESXi670-201912001",
+      "Data Rilascio":"2019/12/05",
+      "Build Number":15160138,
+      "Tipo":"ISO"
+   },
+   {
+      "Versione":"ESXi 6.7 EP 13",
+      "Nome Release":"ESXi670-201911001",
+      "Data Rilascio":"2019/11/12",
+      "Build Number":15018017,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.7 Update 3",
+      "Nome Release":"ESXi 6.7 U3",
+      "Data Rilascio":"2019/08/20",
+      "Build Number":14320388,
+      "Tipo":"ISO"
+   },
+   {
+      "Versione":"ESXi 6.7 EP 10",
+      "Nome Release":"ESXi670-201906002",
+      "Data Rilascio":"2019/06/20",
+      "Build Number":13981272,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.7 EP 09",
+      "Nome Release":"ESXi670-201905001",
+      "Data Rilascio":"2019/05/14",
+      "Build Number":13644319,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.7 EP 08",
+      "Nome Release":"ESXi670-201904001",
+      "Data Rilascio":"2019/04/30",
+      "Build Number":13473784,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.7 U2",
+      "Nome Release":"ESXi 6.7 U2",
+      "Data Rilascio":"2019/04/11",
+      "Build Number":13006603,
+      "Tipo":"ISO"
+   },
+   {
+      "Versione":"ESXi 6.7 EP 07",
+      "Nome Release":"ESXi670-201903001",
+      "Data Rilascio":"2019/03/28",
+      "Build Number":13004448,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.7 EP 06",
+      "Nome Release":"ESXi670-201901001",
+      "Data Rilascio":"2019/01/17",
+      "Build Number":11675023,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.7 EP 05",
+      "Nome Release":"ESXi670-201811001",
+      "Data Rilascio":"2018/11/09",
+      "Build Number":10764712,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.7 U1",
+      "Nome Release":"ESXi 6.7 U1",
+      "Data Rilascio":"2018/10/16",
+      "Build Number":10302608,
+      "Tipo":"ISO"
+   },
+   {
+      "Versione":"ESXi 6.7 EP 04",
+      "Nome Release":"ESXi670-201810001",
+      "Data Rilascio":"2018/10/02",
+      "Build Number":10176752,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.7 EP 03",
+      "Nome Release":"ESXi670-201808001",
+      "Data Rilascio":"2018/08/14",
+      "Build Number":9484548,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.7 EP 02a",
+      "Nome Release":"ESXi670-201807001",
+      "Data Rilascio":"2018/07/26",
+      "Build Number":9214924,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.7 EP 02",
+      "Nome Release":"ESXi670-201806001",
+      "Data Rilascio":"2018/06/28",
+      "Build Number":8941472,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESXi 6.7 GA",
+      "Nome Release":"ESXi 6.7 GA",
+      "Data Rilascio":"2018/04/17",
+      "Build Number":8169922,
+      "Tipo":"ISO"
+   }
+]

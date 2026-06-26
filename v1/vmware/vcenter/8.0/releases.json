@@ -1,0 +1,158 @@
+[
+  {
+    "Versione": "8.0.3.00900",
+    "Nome Release": "vCenter Server 8.0 Update 3j",
+    "Data Rilascio": "2026-05-27",
+    "Build Number": 25413364
+  },
+  {
+    "Versione": "8.0.3.00800",
+    "Nome Release": "vCenter Server 8.0 Update 3i",
+    "Data Rilascio": "2026-02-24",
+    "Build Number": 25197330
+  },
+  {
+    "Versione": "8.0.3.00700",
+    "Nome Release": "vCenter Server 8.0 Update 3h",
+    "Data Rilascio": "2025-12-15",
+    "Build Number": 25092719
+  },
+  {
+    "Versione": "8.0.3.00600",
+    "Nome Release": "vCenter Server 8.0 Update 3g",
+    "Data Rilascio": "2025-07-29",
+    "Build Number": 24853646
+  },
+  {
+    "Versione": "8.0.3.00500",
+    "Nome Release": "vCenter Server 8.0 Update 3e",
+    "Data Rilascio": "2025-04-11",
+    "Build Number": 24674346
+  },
+  {
+    "Versione": "8.0.3.00400",
+    "Nome Release": "vCenter Server 8.0 Update 3d",
+    "Data Rilascio": "2024-10-21",
+    "Build Number": 24322831
+  },
+  {
+    "Versione": "8.0.2.00500",
+    "Nome Release": "vCenter Server 8.0 Update 2e",
+    "Data Rilascio": "2024-10-21",
+    "Build Number": 24321653
+  },
+  {
+    "Versione": "8.0.3.00300",
+    "Nome Release": "vCenter Server 8.0 Update 3c",
+    "Data Rilascio": "2024-10-09",
+    "Build Number": 24305161
+  },
+  {
+    "Versione": "8.0.3.00200",
+    "Nome Release": "vCenter Server 8.0 Update 3b",
+    "Data Rilascio": "2024-09-17",
+    "Build Number": 24262322
+  },
+  {
+    "Versione": "8.0.3.00100",
+    "Nome Release": "vCenter Server 8.0 Update 3a",
+    "Data Rilascio": "2024-07-18",
+    "Build Number": 24091160
+  },
+  {
+    "Versione": "8.0.3.00000",
+    "Nome Release": "vCenter Server 8.0 Update 3",
+    "Data Rilascio": "2024-06-25",
+    "Build Number": 24022515
+  },
+  {
+    "Versione": "8.0.1.00500",
+    "Nome Release": "vCenter Server 8.0 Update 1e",
+    "Data Rilascio": "2024-06-12",
+    "Build Number": 24005165
+  },
+  {
+    "Versione": "8.0.2.00400",
+    "Nome Release": "vCenter Server 8.0 Update 2d",
+    "Data Rilascio": "2024-06-17",
+    "Build Number": 23929136
+  },
+  {
+    "Versione": "8.0.2.00300",
+    "Nome Release": "vCenter Server 8.0 Update 2c",
+    "Data Rilascio": "2024-03-26",
+    "Build Number": 23504390
+  },
+  {
+    "Versione": "8.0.2.00200",
+    "Nome Release": "vCenter Server 8.0 Update 2b",
+    "Data Rilascio": "2024-03-04",
+    "Build Number": 23319993
+  },
+  {
+    "Versione": "8.0.2.00100",
+    "Nome Release": "vCenter Server 8.0 Update 2a",
+    "Data Rilascio": "2023-10-26",
+    "Build Number": 22617221
+  },
+  {
+    "Versione": "8.0.2.00000",
+    "Nome Release": "vCenter Server 8.0 Update 2",
+    "Data Rilascio": "2023-09-21",
+    "Build Number": 22385739
+  },
+  {
+    "Versione": "8.0.1.00400",
+    "Nome Release": "vCenter Server 8.0 Update 1d",
+    "Data Rilascio": "2023-10-24",
+    "Build Number": 22368047
+  },
+  {
+    "Versione": "8.0.1.00300",
+    "Nome Release": "vCenter Server 8.0 Update 1c",
+    "Data Rilascio": "2023-07-27",
+    "Build Number": 22088981
+  },
+  {
+    "Versione": "8.0.1.00200",
+    "Nome Release": "vCenter Server 8.0 Update 1b",
+    "Data Rilascio": "2023-06-22",
+    "Build Number": 21860503
+  },
+  {
+    "Versione": "8.0.1.00100",
+    "Nome Release": "vCenter Server 8.0 Update 1a",
+    "Data Rilascio": "2023-06-01",
+    "Build Number": 21815093
+  },
+  {
+    "Versione": "8.0.1.00000",
+    "Nome Release": "vCenter Server 8.0 Update 1",
+    "Data Rilascio": "2023-04-18",
+    "Build Number": 21560480
+  },
+  {
+    "Versione": "8.0.0.10300",
+    "Nome Release": "vCenter Server 8.0c",
+    "Data Rilascio": "2023-03-30",
+    "Build Number": 21457384
+  },
+  {
+    "Versione": "8.0.0.10200",
+    "Nome Release": "vCenter Server 8.0b",
+    "Data Rilascio": "2023-02-14",
+    "Build Number": 21216066
+  },
+  {
+    "Versione": "8.0.0.10100",
+    "Nome Release": "vCenter Server 8.0a",
+    "Data Rilascio": "2022-12-16",
+    "Build Number": 20920323
+  },
+  {
+    "Versione": "8.0.0.10000",
+    "Nome Release": "vCenter Server 8.0 GA",
+    "Data Rilascio": "2022-10-11",
+    "Build Number": 20519528
+  }
+]

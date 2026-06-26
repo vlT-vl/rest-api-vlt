@@ -1,0 +1,878 @@
+[
+   {
+      "Versione":"6.0 Update 3j",
+      "Nome Release":"vCenter Server 6.0 Update 3j",
+      "Data Rilascio":"2019-09-12",
+      "Build Number":"14510547"
+   },
+   {
+      "Versione":"6.0 Update 3i",
+      "Nome Release":"vCenter Server 6.0 Update 3i",
+      "Data Rilascio":"2019-05-14",
+      "Build Number":"13638473"
+   },
+   {
+      "Versione":"6.0 Update 3h",
+      "Nome Release":"vCenter Server 6.0 Update 3h",
+      "Data Rilascio":"2018-08-14",
+      "Build Number":"9291058"
+   },
+   {
+      "Versione":"6.0 Update 3g",
+      "Nome Release":"vCenter Server 6.0 Update 3g",
+      "Data Rilascio":"2018-07-26",
+      "Build Number":"9109104"
+   },
+   {
+      "Versione":"6.0 Update 3f",
+      "Nome Release":"vCenter Server 6.0 Update 3f",
+      "Data Rilascio":"2018-06-28",
+      "Build Number":"8803875"
+   },
+   {
+      "Versione":"6.0 Update 3e",
+      "Nome Release":"vCenter Server 6.0 Update 3e",
+      "Data Rilascio":"2018-03-20",
+      "Build Number":"7924804"
+   },
+   {
+      "Versione":"6.0 Update 3d",
+      "Nome Release":"vCenter Server 6.0 Update 3d",
+      "Data Rilascio":"2018-01-09",
+      "Build Number":"7462485"
+   },
+   {
+      "Versione":"6.0 Update 3c",
+      "Nome Release":"vCenter Server 6.0 Update 3c",
+      "Data Rilascio":"2017-11-09",
+      "Build Number":"7037393"
+   },
+   {
+      "Versione":"6.0 Update 3b",
+      "Nome Release":"vCenter Server 6.0 Update 3b",
+      "Data Rilascio":"2017-04-13",
+      "Build Number":"5318203"
+   },
+   {
+      "Versione":"6.0 Update 3a",
+      "Nome Release":"vCenter Server 6.0 Update 3a",
+      "Data Rilascio":"2017-03-21",
+      "Build Number":"5183552"
+   },
+   {
+      "Versione":"6.0 Update 3",
+      "Nome Release":"vCenter Server 6.0 Update 3",
+      "Data Rilascio":"2017-02-24",
+      "Build Number":"5112529"
+   },
+   {
+      "Versione":"6.0 Update 2a",
+      "Nome Release":"vCenter Server 6.0 Update 2a",
+      "Data Rilascio":"2016-11-22",
+      "Build Number":"4541948"
+   },
+   {
+      "Versione":"6.0 Update 2m",
+      "Nome Release":"vCenter Server 6.0 Update 2m",
+      "Data Rilascio":"2016-09-15",
+      "Build Number":"4191365"
+   },
+   {
+      "Versione":"6.0 Update 2",
+      "Nome Release":"vCenter Server 6.0 Update 2",
+      "Data Rilascio":"2016-03-15",
+      "Build Number":"3634794"
+   },
+   {
+      "Versione":"6.0 Update 1b",
+      "Nome Release":"vCenter Server 6.0 Update 1b",
+      "Data Rilascio":"2016-01-07",
+      "Build Number":"3339084"
+   },
+   {
+      "Versione":"6.0 Update 1",
+      "Nome Release":"vCenter Server 6.0 Update 1",
+      "Data Rilascio":"2015-09-10",
+      "Build Number":"3018523"
+   },
+   {
+      "Versione":"6.0b",
+      "Nome Release":"vCenter Server 6.0b",
+      "Data Rilascio":"2015-07-07",
+      "Build Number":"2776510"
+   },
+   {
+      "Versione":"6.0a",
+      "Nome Release":"vCenter Server 6.0a",
+      "Data Rilascio":"2015-04-16",
+      "Build Number":"2656761"
+   },
+   {
+      "Versione":"6.0 GA",
+      "Nome Release":"vCenter Server 6.0 GA",
+      "Data Rilascio":"2015-03-12",
+      "Build Number":"2559267"
+   },
+   {
+      "Versione":"5.5 Update 3k",
+      "Nome Release":"vCenter Server 5.5 Update 3k",
+      "Data Rilascio":"2018-09-14",
+      "Build Number":"9911218"
+   },
+   {
+      "Versione":"5.5 Update 3k",
+      "Nome Release":"vCenter Server Appliance 5.5 Update 3k",
+      "Data Rilascio":"2018-09-14",
+      "Build Number":"9911210"
+   },
+   {
+      "Versione":"5.5 Update 3j",
+      "Nome Release":"vCenter Server 5.5 Update 3j",
+      "Data Rilascio":"2018-08-14",
+      "Build Number":"9313450"
+   },
+   {
+      "Versione":"5.5 Update 3j",
+      "Nome Release":"vCenter Server Appliance 5.5 Update 3j",
+      "Data Rilascio":"2018-08-14",
+      "Build Number":"9316563"
+   },
+   {
+      "Versione":"5.5 Update 3i",
+      "Nome Release":"vCenter Server 5.5 Update 3i",
+      "Data Rilascio":"2018-06-28",
+      "Build Number":"8803859"
+   },
+   {
+      "Versione":"5.5 Update 3i",
+      "Nome Release":"vCenter Server Appliance 5.5 Update 3i",
+      "Data Rilascio":"2018-06-28",
+      "Build Number":"8804617"
+   },
+   {
+      "Versione":"5.5 Update 3h",
+      "Nome Release":"vCenter Server 5.5 Update 3h",
+      "Data Rilascio":"2018-03-20",
+      "Build Number":"7874785"
+   },
+   {
+      "Versione":"5.5 Update 3h",
+      "Nome Release":"vCenter Server Appliance 5.5 Update 3h",
+      "Data Rilascio":"2018-03-20",
+      "Build Number":"7881688"
+   },
+   {
+      "Versione":"5.5 Update 3g",
+      "Nome Release":"vCenter Server 5.5 Update 3g",
+      "Data Rilascio":"2018-01-09",
+      "Build Number":"7460778"
+   },
+   {
+      "Versione":"5.5 Update 3g",
+      "Nome Release":"vCenter Server Appliance 5.5 Update 3g",
+      "Data Rilascio":"2018-01-09",
+      "Build Number":"7460865"
+   },
+   {
+      "Versione":"5.5 Update 3f",
+      "Nome Release":"vCenter Server 5.5 Update 3f",
+      "Data Rilascio":"2017-09-14",
+      "Build Number":"6516310"
+   },
+   {
+      "Versione":"5.5 Update 3f",
+      "Nome Release":"vCenter Server Appliance 5.5 Update 3f",
+      "Data Rilascio":"2017-09-14",
+      "Build Number":"6516310"
+   },
+   {
+      "Versione":"5.5 Update 3e",
+      "Nome Release":"vCenter Server 5.5 Update 3e",
+      "Data Rilascio":"2016-08-04",
+      "Build Number":"4180647"
+   },
+   {
+      "Versione":"5.5 Update 3e",
+      "Nome Release":"vCenter Server Appliance 5.5 Update 3e",
+      "Data Rilascio":"2016-08-04",
+      "Build Number":"4180648"
+   },
+   {
+      "Versione":"5.0 U3g",
+      "Nome Release":"vCenter Server 5.0 U3g",
+      "Data Rilascio":"2016-06-14",
+      "Build Number":"3891028"
+   },
+   {
+      "Versione":"5.0 U3g",
+      "Nome Release":"vCenter Server Appliance 5.0 U3g",
+      "Data Rilascio":"2016-06-14",
+      "Build Number":"3891027"
+   },
+   {
+      "Versione":"5.1 Update 3d",
+      "Nome Release":"vCenter Server 5.1 Update 3d",
+      "Data Rilascio":"2016-05-19",
+      "Build Number":"3814779"
+   },
+   {
+      "Versione":"5.1 Update 3d",
+      "Nome Release":"vCenter Server Appliance 5.1 Update 3d",
+      "Data Rilascio":"2016-05-19",
+      "Build Number":"3868380"
+   },
+   {
+      "Versione":"5.5 Update 3d",
+      "Nome Release":"vCenter Server 5.5 Update 3d",
+      "Data Rilascio":"2016-04-14",
+      "Build Number":"3721164"
+   },
+   {
+      "Versione":"5.5 Update 3d",
+      "Nome Release":"vCenter Server Appliance 5.5 Update 3d",
+      "Data Rilascio":"2016-04-14",
+      "Build Number":"3730881"
+   },
+   {
+      "Versione":"5.5 Update 3c",
+      "Nome Release":"vCenter Server 5.5 Update 3c",
+      "Data Rilascio":"2016-03-29",
+      "Build Number":"3660016"
+   },
+   {
+      "Versione":"5.5 Update 3c",
+      "Nome Release":"vCenter Server Appliance 5.5 Update 3c",
+      "Data Rilascio":"2016-03-29",
+      "Build Number":"3660015"
+   },
+   {
+      "Versione":"5.1 Update 3c",
+      "Nome Release":"vCenter Server Appliance 5.1 Update 3c",
+      "Data Rilascio":"2016-03-29",
+      "Build Number":"3630963"
+   },
+   {
+      "Versione":"5.5 Update 3b",
+      "Nome Release":"vCenter Server 5.5 Update 3b",
+      "Data Rilascio":"2015-12-08",
+      "Build Number":"3252642"
+   },
+   {
+      "Versione":"5.5 Update 3b",
+      "Nome Release":"vCenter Server Appliance 5.5 Update 3b",
+      "Data Rilascio":"2015-12-08",
+      "Build Number":"3255668"
+   },
+   {
+      "Versione":"5.5 Update 3a",
+      "Nome Release":"vCenter Server 5.5 Update 3a",
+      "Data Rilascio":"2015-10-22",
+      "Build Number":"3142196"
+   },
+   {
+      "Versione":"5.5 Update 3a",
+      "Nome Release":"vCenter Server Appliance 5.5 Update 3a",
+      "Data Rilascio":"2015-10-22",
+      "Build Number":"3154314"
+   },
+   {
+      "Versione":"5.1 Update 3b",
+      "Nome Release":"vCenter Server 5.1 Update 3b",
+      "Data Rilascio":"2015-10-01",
+      "Build Number":"3070521"
+   },
+   {
+      "Versione":"5.0 U3e",
+      "Nome Release":"vCenter Server 5.0 U3e",
+      "Data Rilascio":"2015-10-01",
+      "Build Number":"3073236"
+   },
+   {
+      "Versione":"5.1 Update 3b",
+      "Nome Release":"vCenter Server Appliance 5.1 Update 3b",
+      "Data Rilascio":"2015-10-01",
+      "Build Number":"3072314"
+   },
+   {
+      "Versione":"5.0 U3e",
+      "Nome Release":"vCenter Server Appliance 5.0 U3e",
+      "Data Rilascio":"2015-10-01",
+      "Build Number":"3073237"
+   },
+   {
+      "Versione":"5.5 Update 3",
+      "Nome Release":"vCenter Server 5.5 Update 3",
+      "Data Rilascio":"2015-09-16",
+      "Build Number":"3000241"
+   },
+   {
+      "Versione":"5.5 Update 3",
+      "Nome Release":"vCenter Server Appliance 5.5 Update 3",
+      "Data Rilascio":"2015-09-16",
+      "Build Number":"3000347"
+   },
+   {
+      "Versione":"5.1 Update 3a",
+      "Nome Release":"vCenter Server 5.1 Update 3a",
+      "Data Rilascio":"2015-04-30",
+      "Build Number":"2669725"
+   },
+   {
+      "Versione":"5.0 U3d",
+      "Nome Release":"vCenter Server 5.0 U3d",
+      "Data Rilascio":"2015-04-30",
+      "Build Number":"2656067"
+   },
+   {
+      "Versione":"5.1 Update 3a",
+      "Nome Release":"vCenter Server Appliance 5.1 Update 3a",
+      "Data Rilascio":"2015-04-30",
+      "Build Number":"2669725"
+   },
+   {
+      "Versione":"5.0 U3d",
+      "Nome Release":"vCenter Server Appliance 5.0 U3d",
+      "Data Rilascio":"2015-04-30",
+      "Build Number":"2656066"
+   },
+   {
+      "Versione":"5.5 Update 2e",
+      "Nome Release":"vCenter Server 5.5 Update 2e",
+      "Data Rilascio":"2015-04-16",
+      "Build Number":"2646482"
+   },
+   {
+      "Versione":"5.5 Update 2e",
+      "Nome Release":"vCenter Server Appliance 5.5 Update 2e",
+      "Data Rilascio":"2015-04-16",
+      "Build Number":"2646489"
+   },
+   {
+      "Versione":"5.5 Update 2d",
+      "Nome Release":"vCenter Server 5.5 Update 2d",
+      "Data Rilascio":"2015-01-27",
+      "Build Number":"2442329"
+   },
+   {
+      "Versione":"5.5 Update 2d",
+      "Nome Release":"vCenter Server Appliance 5.5 Update 2d",
+      "Data Rilascio":"2015-01-27",
+      "Build Number":"2442329"
+   },
+   {
+      "Versione":"5.1 Update 3",
+      "Nome Release":"vCenter Server 5.1 Update 3",
+      "Data Rilascio":"2014-12-04",
+      "Build Number":"2306353"
+   },
+   {
+      "Versione":"5.1 Update 3",
+      "Nome Release":"vCenter Server Appliance 5.1 Update 3",
+      "Data Rilascio":"2014-12-04",
+      "Build Number":"2306353"
+   },
+   {
+      "Versione":"5.0 U3c",
+      "Nome Release":"vCenter Server 5.0 U3c",
+      "Data Rilascio":"2014-11-20",
+      "Build Number":"2210222"
+   },
+   {
+      "Versione":"5.0 U3c",
+      "Nome Release":"vCenter Server Appliance 5.0 U3c",
+      "Data Rilascio":"2014-11-20",
+      "Build Number":"2210222"
+   },
+   {
+      "Versione":"5.1 Update 2c",
+      "Nome Release":"vCenter Server 5.1 Update 2c",
+      "Data Rilascio":"2014-10-30",
+      "Build Number":"2207772"
+   },
+   {
+      "Versione":"5.1 Update 2c",
+      "Nome Release":"vCenter Server Appliance 5.1 Update 2c",
+      "Data Rilascio":"2014-10-30",
+      "Build Number":"2207772"
+   },
+   {
+      "Versione":"5.5 Update 2b",
+      "Nome Release":"vCenter Server 5.5 Update 2b",
+      "Data Rilascio":"2014-10-09",
+      "Build Number":"2183111"
+   },
+   {
+      "Versione":"5.5 Update 2b",
+      "Nome Release":"vCenter Server Appliance 5.5 Update 2b",
+      "Data Rilascio":"2014-10-09",
+      "Build Number":"2183111"
+   },
+   {
+      "Versione":"5.5 Update 2a",
+      "Nome Release":"vCenter Server Appliance 5.5 Update 2a",
+      "Data Rilascio":"2014-10-01",
+      "Build Number":"2001466"
+   },
+   {
+      "Versione":"5.1 Update 2b",
+      "Nome Release":"vCenter Server Appliance 5.1 Update 2b",
+      "Data Rilascio":"2014-10-01",
+      "Build Number":"1882349"
+   },
+   {
+      "Versione":"5.0 U3b",
+      "Nome Release":"vCenter Server Appliance 5.0 U3b",
+      "Data Rilascio":"2014-10-01",
+      "Build Number":"1917469"
+   },
+   {
+      "Versione":"5.5 Update 2",
+      "Nome Release":"vCenter Server 5.5 Update 2",
+      "Data Rilascio":"2014-09-09",
+      "Build Number":"2001466"
+   },
+   {
+      "Versione":"5.5 Update 2",
+      "Nome Release":"vCenter Server Appliance 5.5 Update 2",
+      "Data Rilascio":"2014-09-09",
+      "Build Number":"2063318"
+   },
+   {
+      "Versione":"5.5 Update 1c",
+      "Nome Release":"vCenter Server 5.5 Update 1c",
+      "Data Rilascio":"2014-07-22",
+      "Build Number":"1945274"
+   },
+   {
+      "Versione":"5.5 Update 1c",
+      "Nome Release":"vCenter Server Appliance 5.5 Update 1c",
+      "Data Rilascio":"2014-07-22",
+      "Build Number":"1945274"
+   },
+   {
+      "Versione":"5.1 Update 2a",
+      "Nome Release":"vCenter Server 5.1 Update 2a",
+      "Data Rilascio":"2014-07-01",
+      "Build Number":"1882349"
+   },
+   {
+      "Versione":"5.0 U3a",
+      "Nome Release":"vCenter Server 5.0 U3a",
+      "Data Rilascio":"2014-07-01",
+      "Build Number":"1917469"
+   },
+   {
+      "Versione":"5.1 Update 2a",
+      "Nome Release":"vCenter Server Appliance 5.1 Update 2a",
+      "Data Rilascio":"2014-07-01",
+      "Build Number":"1882349"
+   },
+   {
+      "Versione":"5.0 U3a",
+      "Nome Release":"vCenter Server Appliance 5.0 U3a",
+      "Data Rilascio":"2014-07-01",
+      "Build Number":"1917469"
+   },
+   {
+      "Versione":"5.5 Update 1b",
+      "Nome Release":"vCenter Server 5.5 Update 1b",
+      "Data Rilascio":"2014-06-12",
+      "Build Number":"1891313"
+   },
+   {
+      "Versione":"5.5 Update 1b",
+      "Nome Release":"vCenter Server Appliance 5.5 Update 1b",
+      "Data Rilascio":"2014-06-12",
+      "Build Number":"1891313"
+   },
+   {
+      "Versione":"5.5 Update 1a",
+      "Nome Release":"vCenter Server 5.5 Update 1a",
+      "Data Rilascio":"2014-04-19",
+      "Build Number":"1750787"
+   },
+   {
+      "Versione":"5.5.0c",
+      "Nome Release":"vCenter Server 5.5.0c",
+      "Data Rilascio":"2014-04-19",
+      "Build Number":"1750596"
+   },
+   {
+      "Versione":"5.5 Update 1a",
+      "Nome Release":"vCenter Server Appliance 5.5 Update 1a",
+      "Data Rilascio":"2014-04-19",
+      "Build Number":"1750787"
+   },
+   {
+      "Versione":"5.5.0c",
+      "Nome Release":"vCenter Server Appliance 5.5.0c",
+      "Data Rilascio":"2014-04-19",
+      "Build Number":"1750596"
+   },
+   {
+      "Versione":"5.5 Update 1",
+      "Nome Release":"vCenter Server 5.5 Update 1",
+      "Data Rilascio":"2014-03-11",
+      "Build Number":"1623099"
+   },
+   {
+      "Versione":"5.5 Update 1",
+      "Nome Release":"vCenter Server Appliance 5.5 Update 1",
+      "Data Rilascio":"2014-03-11",
+      "Build Number":"1623101"
+   },
+   {
+      "Versione":"5.1 Update 2",
+      "Nome Release":"vCenter Server 5.1 Update 2",
+      "Data Rilascio":"2014-01-16",
+      "Build Number":"1473063"
+   },
+   {
+      "Versione":"5.1 Update 2",
+      "Nome Release":"vCenter Server Appliance 5.1 Update 2",
+      "Data Rilascio":"2014-01-16",
+      "Build Number":"1474364"
+   },
+   {
+      "Versione":"5.5.0b",
+      "Nome Release":"vCenter Server 5.5.0b",
+      "Data Rilascio":"2013-12-22",
+      "Build Number":"1476327"
+   },
+   {
+      "Versione":"5.5.0b",
+      "Nome Release":"vCenter Server Appliance 5.5.0b",
+      "Data Rilascio":"2013-12-22",
+      "Build Number":"1476327"
+   },
+   {
+      "Versione":"5.5.0a",
+      "Nome Release":"vCenter Server 5.5.0a",
+      "Data Rilascio":"2013-10-31",
+      "Build Number":"1378903"
+   },
+   {
+      "Versione":"5.5.0a",
+      "Nome Release":"vCenter Server Appliance 5.5.0a",
+      "Data Rilascio":"2013-10-31",
+      "Build Number":"1398495"
+   },
+   {
+      "Versione":"5.1 Update 1c",
+      "Nome Release":"vCenter Server 5.1 Update 1c",
+      "Data Rilascio":"2013-10-17",
+      "Build Number":"1364037"
+   },
+   {
+      "Versione":"5.0 U3",
+      "Nome Release":"vCenter Server 5.0 U3",
+      "Data Rilascio":"2013-10-17",
+      "Build Number":"1300600"
+   },
+   {
+      "Versione":"5.1 Update 1c",
+      "Nome Release":"vCenter Server Appliance 5.1 Update 1c",
+      "Data Rilascio":"2013-10-17",
+      "Build Number":"1364042"
+   },
+   {
+      "Versione":"5.0 U3",
+      "Nome Release":"vCenter Server Appliance 5.0 U3",
+      "Data Rilascio":"2013-10-17",
+      "Build Number":"1302764"
+   },
+   {
+      "Versione":"5.5 GA",
+      "Nome Release":"vCenter Server 5.5 GA",
+      "Data Rilascio":"2013-09-22",
+      "Build Number":"1312299"
+   },
+   {
+      "Versione":"5.5 GA",
+      "Nome Release":"vCenter Server Appliance 5.5 GA",
+      "Data Rilascio":"2013-09-22",
+      "Build Number":"1312298"
+   },
+   {
+      "Versione":"5.1 Update 1b",
+      "Nome Release":"vCenter Server 5.1 Update 1b",
+      "Data Rilascio":"2013-08-01",
+      "Build Number":"1235232"
+   },
+   {
+      "Versione":"5.1 Update 1b",
+      "Nome Release":"vCenter Server Appliance 5.1 Update 1b",
+      "Data Rilascio":"2013-08-01",
+      "Build Number":"1235232"
+   },
+   {
+      "Versione":"5.1 Update 1a",
+      "Nome Release":"vCenter Server 5.1 Update 1a",
+      "Data Rilascio":"2013-05-22",
+      "Build Number":"1123961"
+   },
+   {
+      "Versione":"5.1 Update 1a",
+      "Nome Release":"vCenter Server Appliance 5.1 Update 1a",
+      "Data Rilascio":"2013-05-22",
+      "Build Number":"1123961"
+   },
+   {
+      "Versione":"5.1 Update 1",
+      "Nome Release":"vCenter Server 5.1 Update 1",
+      "Data Rilascio":"2013-04-25",
+      "Build Number":"1064983"
+   },
+   {
+      "Versione":"5.1 Update 1",
+      "Nome Release":"vCenter Server Appliance 5.1 Update 1",
+      "Data Rilascio":"2013-04-25",
+      "Build Number":"1065184"
+   },
+   {
+      "Versione":"2.5.0 U6c",
+      "Nome Release":"VirtualCenter 2.5.0 U6c",
+      "Data Rilascio":"2013-02-21",
+      "Build Number":"988588"
+   },
+   {
+      "Versione":"4.0 Update 4b",
+      "Nome Release":"vCenter Server 4.0 Update 4b",
+      "Data Rilascio":"2013-02-17",
+      "Build Number":"934016"
+   },
+   {
+      "Versione":"4.1 U3a",
+      "Nome Release":"vCenter Server 4.1 U3a",
+      "Data Rilascio":"2013-01-31",
+      "Build Number":"925676"
+   },
+   {
+      "Versione":"5.1.0b",
+      "Nome Release":"vCenter Server 5.1.0b",
+      "Data Rilascio":"2012-12-20",
+      "Build Number":"947673"
+   },
+   {
+      "Versione":"5.0 U2",
+      "Nome Release":"vCenter Server 5.0 U2",
+      "Data Rilascio":"2012-12-20",
+      "Build Number":"913577"
+   },
+   {
+      "Versione":"5.1.0b",
+      "Nome Release":"vCenter Server Appliance 5.1.0b",
+      "Data Rilascio":"2012-12-20",
+      "Build Number":"947673"
+   },
+   {
+      "Versione":"5.0 U2",
+      "Nome Release":"vCenter Server Appliance 5.0 U2",
+      "Data Rilascio":"2012-12-20",
+      "Build Number":"920217"
+   },
+   {
+      "Versione":"5.1.0a",
+      "Nome Release":"vCenter Server 5.1.0a",
+      "Data Rilascio":"2012-10-25",
+      "Build Number":"880146"
+   },
+   {
+      "Versione":"5.1.0a",
+      "Nome Release":"vCenter Server Appliance 5.1.0a",
+      "Data Rilascio":"2012-10-25",
+      "Build Number":"880472"
+   },
+   {
+      "Versione":"4.0 Update 4a",
+      "Nome Release":"vCenter Server 4.0 Update 4a",
+      "Data Rilascio":"2012-09-13",
+      "Build Number":"818020"
+   },
+   {
+      "Versione":"5.1 GA",
+      "Nome Release":"vCenter Server 5.1 GA",
+      "Data Rilascio":"2012-09-10",
+      "Build Number":"799731"
+   },
+   {
+      "Versione":"4.1 U3",
+      "Nome Release":"vCenter Server 4.1 U3",
+      "Data Rilascio":"2012-08-30",
+      "Build Number":"816786"
+   },
+   {
+      "Versione":"5.0 U1b",
+      "Nome Release":"vCenter Server 5.0 U1b",
+      "Data Rilascio":"2012-08-16",
+      "Build Number":"804277"
+   },
+   {
+      "Versione":"5.0 U1b",
+      "Nome Release":"vCenter Server Appliance 5.0 U1b",
+      "Data Rilascio":"2012-08-16",
+      "Build Number":"804277"
+   },
+   {
+      "Versione":"5.0 U1a",
+      "Nome Release":"vCenter Server 5.0 U1a",
+      "Data Rilascio":"2012-07-12",
+      "Build Number":"755629"
+   },
+   {
+      "Versione":"5.0 U1a",
+      "Nome Release":"vCenter Server Appliance 5.0 U1a",
+      "Data Rilascio":"2012-07-12",
+      "Build Number":"759855"
+   },
+   {
+      "Versione":"5.0 U1",
+      "Nome Release":"vCenter Server 5.0 U1",
+      "Data Rilascio":"2012-03-15",
+      "Build Number":"623373"
+   },
+   {
+      "Versione":"2.5.0 U6b",
+      "Nome Release":"VirtualCenter 2.5.0 U6b",
+      "Data Rilascio":"2012-03-08",
+      "Build Number":"598800"
+   },
+   {
+      "Versione":"4.0 U4",
+      "Nome Release":"vCenter Server 4.0 U4",
+      "Data Rilascio":"2011-11-17",
+      "Build Number":"496403"
+   },
+   {
+      "Versione":"4.1 U2",
+      "Nome Release":"vCenter Server 4.1 U2",
+      "Data Rilascio":"2011-10-27",
+      "Build Number":"491557"
+   },
+   {
+      "Versione":"5.0 GA",
+      "Nome Release":"vCenter Server 5.0 GA",
+      "Data Rilascio":"2011-08-24",
+      "Build Number":"455964"
+   },
+   {
+      "Versione":"5.0 GA",
+      "Nome Release":"vCenter Server Appliance 5.0 GA",
+      "Data Rilascio":"2011-08-24",
+      "Build Number":"455964"
+   },
+   {
+      "Versione":"4.0 U3",
+      "Nome Release":"vCenter Server 4.0 U3",
+      "Data Rilascio":"2011-05-05",
+      "Build Number":"385281"
+   },
+   {
+      "Versione":"2.5.0 U6a#",
+      "Nome Release":"VirtualCenter 2.5.0 U6a#",
+      "Data Rilascio":"2011-05-05",
+      "Build Number":"341471"
+   },
+   {
+      "Versione":"4.1 U1",
+      "Nome Release":"vCenter Server 4.1 U1",
+      "Data Rilascio":"2011-02-10",
+      "Build Number":"345043"
+   },
+   {
+      "Versione":"4.0 U1",
+      "Nome Release":"vCenter Server 4.0 U1",
+      "Data Rilascio":"2010-11-19",
+      "Build Number":"208111"
+   },
+   {
+      "Versione":"4.1 GA",
+      "Nome Release":"vCenter Server 4.1 GA",
+      "Data Rilascio":"2010-07-13",
+      "Build Number":"258902"
+   },
+   {
+      "Versione":"4.0 U2",
+      "Nome Release":"vCenter Server 4.0 U2",
+      "Data Rilascio":"2010-06-10",
+      "Build Number":"258672"
+   },
+   {
+      "Versione":"4.0 Patch 1",
+      "Nome Release":"vCenter Server 4.0 Patch 1",
+      "Data Rilascio":"2010-02-25",
+      "Build Number":"183347"
+   },
+   {
+      "Versione":"2.5.0 U6 Localized",
+      "Nome Release":"VirtualCenter 2.5.0 U6 Localized",
+      "Data Rilascio":"2010-01-29",
+      "Build Number":"227640"
+   },
+   {
+      "Versione":"2.5.0 U6 English",
+      "Nome Release":"VirtualCenter 2.5.0 U6 English",
+      "Data Rilascio":"2010-01-29",
+      "Build Number":"227637"
+   },
+   {
+      "Versione":"2.5.0 U5 Localized",
+      "Nome Release":"VirtualCenter 2.5.0 U5 Localized",
+      "Data Rilascio":"2009-07-10",
+      "Build Number":"174835"
+   },
+   {
+      "Versione":"2.5.0 U5 English",
+      "Nome Release":"VirtualCenter 2.5.0 U5 English",
+      "Data Rilascio":"2009-07-10",
+      "Build Number":"174768"
+   },
+   {
+      "Versione":"4.0 GA",
+      "Nome Release":"vCenter Server 4.0 GA",
+      "Data Rilascio":"2009-05-21",
+      "Build Number":"162856"
+   },
+   {
+      "Versione":"2.5.0 U4 Localized",
+      "Nome Release":"VirtualCenter 2.5.0 U4 Localized",
+      "Data Rilascio":"2009-02-23",
+      "Build Number":"147704"
+   },
+   {
+      "Versione":"2.5.0 U4 German",
+      "Nome Release":"VirtualCenter 2.5.0 U4 German",
+      "Data Rilascio":"2009-02-23",
+      "Build Number":"147697"
+   },
+   {
+      "Versione":"2.5.0 U4 English",
+      "Nome Release":"VirtualCenter 2.5.0 U4 English",
+      "Data Rilascio":"2009-02-23",
+      "Build Number":"147633"
+   },
+   {
+      "Versione":"2.5.0 U3",
+      "Nome Release":"VirtualCenter 2.5.0 U3",
+      "Data Rilascio":"2008-10-03",
+      "Build Number":"119598"
+   },
+   {
+      "Versione":"2.5.0 U2",
+      "Nome Release":"VirtualCenter 2.5.0 U2",
+      "Data Rilascio":"2008-07-25",
+      "Build Number":"104215"
+   },
+   {
+      "Versione":"2.5.0 U1",
+      "Nome Release":"VirtualCenter 2.5.0 U1",
+      "Data Rilascio":"2008-04-10",
+      "Build Number":"84767"
+   },
+   {
+      "Versione":"2.5.0 GA",
+      "Nome Release":"VirtualCenter 2.5.0 GA",
+      "Data Rilascio":"2007-12-10",
+      "Build Number":"64192"
+   }
+]

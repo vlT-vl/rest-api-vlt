@@ -1,0 +1,32 @@
+[
+  {
+    "Versione": "9.1.0.0100",
+    "Nome Release": "vCenter Server 9.1.0.0100",
+    "Data Rilascio": "2026-06-05",
+    "Build Number": 25417926
+  },
+  {
+    "Versione": "9.1",
+    "Nome Release": "vCenter Server 9.1",
+    "Data Rilascio": "2026-05-12",
+    "Build Number": 25370922
+  },
+  {
+    "Versione": "9.0.2.0",
+    "Nome Release": "vCenter Server 9.0 Update 2",
+    "Data Rilascio": "2026-01-20",
+    "Build Number": 25148086
+  },
+  {
+    "Versione": "9.0.1.0",
+    "Nome Release": "vCenter Server 9.0 Update 1",
+    "Data Rilascio": "2025-09-29",
+    "Build Number": 24957454
+  },
+  {
+    "Versione": "9.0.0.0",
+    "Nome Release": "vCenter Server 9.0 GA",
+    "Data Rilascio": "2025-06-17",
+    "Build Number": 24755230
+  }
+]

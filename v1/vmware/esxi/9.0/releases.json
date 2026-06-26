@@ -1,0 +1,44 @@
+[
+   {
+      "Versione":"ESX 9.1",
+      "Nome Release":"ESX 9.1.0.0100",
+      "Data Rilascio":"2026/06/05",
+      "Build Number":25433460,
+      "Tipo":"ISO"
+   },
+   {
+      "Versione":"ESX 9.1",
+      "Nome Release":"ESX 9.1 GA",
+      "Data Rilascio":"2026/05/12",
+      "Build Number":25370933,
+      "Tipo":"ISO"
+   },
+   {
+      "Versione":"ESX 9.0.2.0",
+      "Nome Release":"ESX 9.0.2.0",
+      "Data Rilascio":"2026/01/20",
+      "Build Number":25148076,
+      "Tipo":"ISO"
+   },
+   {
+      "Versione":"ESX 9.0.1.0",
+      "Nome Release":"ESX 9.0.1.0",
+      "Data Rilascio":"2025/09/29",
+      "Build Number":24957456,
+      "Tipo":"ISO"
+   },
+   {
+      "Versione":"ESX 9.0.0.0100",
+      "Nome Release":"ESX 9.0.0.0100",
+      "Data Rilascio":"2025/07/15",
+      "Build Number":24813472,
+      "Tipo":"Patch"
+   },
+   {
+      "Versione":"ESX 9.0.0",
+      "Nome Release":"ESX 9.0 GA",
+      "Data Rilascio":"2025/06/17",
+      "Build Number":24755229,
+      "Tipo":"ISO"
+   }
+]

@@ -1,0 +1,128 @@
+[
+   {
+      "Nome Release":"Proxmox Backup Server 4.2.2",
+      "Versione":"4.2.2",
+      "Codename":"pbs-4.2.2",
+      "Data Rilascio":"2026-06-18",
+      "End Of Support":"Attualmente in supporto"
+   },
+   {
+      "Nome Release":"Proxmox Backup Server 4.2.1",
+      "Versione":"4.2.1",
+      "Codename":"pbs-4.2.1",
+      "Data Rilascio":"2026-05-26",
+      "End Of Support":"Attualmente in supporto"
+   },
+   {
+      "Nome Release":"Proxmox Backup Server 4.2.0",
+      "Versione":"4.2.0",
+      "Codename":"pbs-4.2.0",
+      "Data Rilascio":"2026-04-29",
+      "End Of Support":"Attualmente in supporto"
+   },
+   {
+      "Nome Release":"Proxmox Backup Server 4.1.7",
+      "Versione":"4.1.7",
+      "Codename":"pbs-4.1.7",
+      "Data Rilascio":"2026-04-15",
+      "End Of Support":"Attualmente in supporto"
+   },
+   {
+      "Nome Release":"Proxmox Backup Server 4.1.0",
+      "Versione":"4.1.0",
+      "Codename":"pbs-4.1.0",
+      "Data Rilascio":"2025-11-26",
+      "End Of Support":"Attualmente in supporto"
+   },
+   {
+      "Nome Release":"Proxmox Backup Server 4.0.0",
+      "Versione":"4.0.0",
+      "Codename":"pbs-4.0.0",
+      "Data Rilascio":"2025-08-06",
+      "End Of Support":"Attualmente in supporto"
+   },
+   {
+      "Nome Release":"Proxmox Backup Server 3.4.0",
+      "Versione":"3.4.0",
+      "Codename":"pbs-3.4.0",
+      "Data Rilascio":"2025-04-10",
+      "End Of Support":"Attualmente in supporto"
+   },
+   {
+      "Nome Release":"Proxmox Backup Server 3.3.0",
+      "Versione":"3.3.0",
+      "Codename":"pbs-3.3.0",
+      "Data Rilascio":"2024-11-20",
+      "End Of Support":"Attualmente in supporto"
+   },
+   {
+      "Nome Release":"Proxmox Backup Server 3.2.0",
+      "Versione":"3.2.0",
+      "Codename":"pbs-3.2.0",
+      "Data Rilascio":"2024-05-28",
+      "End Of Support":"Attualmente in supporto"
+   },
+   {
+      "Nome Release":"Proxmox Backup Server 3.1.0",
+      "Versione":"3.1.0",
+      "Codename":"pbs-3.1.0",
+      "Data Rilascio":"2023-11-29",
+      "End Of Support":"Attualmente in supporto"
+   },
+   {
+      "Nome Release":"Proxmox Backup Server 3.0.0",
+      "Versione":"3.0.0",
+      "Codename":"pbs-3.0.0",
+      "Data Rilascio":"2023-06-28",
+      "End Of Support":"Attualmente in supporto"
+   },
+   {
+      "Nome Release":"Proxmox Backup Server 2.4.0",
+      "Versione":"2.4.0",
+      "Codename":"pbs-2.4.0",
+      "Data Rilascio":"2023-03-29",
+      "End Of Support":"2025-08-05"
+   },
+   {
+      "Nome Release":"Proxmox Backup Server 2.3.0",
+      "Versione":"2.3.0",
+      "Codename":"pbs-2.3.0",
+      "Data Rilascio":"2022-11-29",
+      "End Of Support":"2025-08-05"
+   },
+   {
+      "Nome Release":"Proxmox Backup Server 2.2.0",
+      "Versione":"2.2.0",
+      "Codename":"pbs-2.2.0",
+      "Data Rilascio":"2022-05-18",
+      "End Of Support":"2025-08-05"
+   },
+   {
+      "Nome Release":"Proxmox Backup Server 2.1.0",
+      "Versione":"2.1.0",
+      "Codename":"pbs-2.1.0",
+      "Data Rilascio":"2021-11-23",
+      "End Of Support":"2025-08-05"
+   },
+   {
+      "Nome Release":"Proxmox Backup Server 2.0.0",
+      "Versione":"2.0.0",
+      "Codename":"pbs-2.0.0",
+      "Data Rilascio":"2021-07-13",
+      "End Of Support":"2025-08-05"
+   },
+   {
+      "Nome Release":"Proxmox Backup Server 1.1.0",
+      "Versione":"1.1.0",
+      "Codename":"pbs-1.1.0",
+      "Data Rilascio":"2021-04-15",
+      "End Of Support":"2023-07-13"
+   },
+   {
+      "Nome Release":"Proxmox Backup Server 1.0.0",
+      "Versione":"1.0.0",
+      "Codename":"pbs-1.0.0",
+      "Data Rilascio":"2020-11-11",
+      "End Of Support":"2023-07-13"
+   }
+]

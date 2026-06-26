@@ -1,0 +1,128 @@
+[
+   {
+      "Versione":"ESXi 5.5 U3k",
+      "Nome Release":"ESXi550-201809001",
+      "Data Rilascio":"2018/09/14",
+      "Build Number":9919047,
+      "Tipo":"N/A"
+   },
+   {
+      "Versione":"ESXi 5.5 U3J",
+      "Nome Release":"ESXi550-201808001",
+      "Data Rilascio":"2018/08/14",
+      "Build Number":9313066,
+      "Tipo":"N/A"
+   },
+   {
+      "Versione":"ESXi 5.5 U3i",
+      "Nome Release":"ESXi550-201806001",
+      "Data Rilascio":"2018/06/28",
+      "Build Number":8934887,
+      "Tipo":"N/A"
+   },
+   {
+      "Versione":"ESXi 5.5 U3h",
+      "Nome Release":"ESXi550-201803001",
+      "Data Rilascio":"2018/03/20",
+      "Build Number":7967571,
+      "Tipo":"N/A"
+   },
+   {
+      "Versione":"ESXi 5.5 Express Patch 13",
+      "Nome Release":"ESXi550-201801002",
+      "Data Rilascio":"2018/01/22",
+      "Build Number":7618464,
+      "Tipo":"N/A"
+   },
+   {
+      "Versione":"ESXi 5.5 Update 3f",
+      "Nome Release":"ESXi550-201709001",
+      "Data Rilascio":"2017/09/14",
+      "Build Number":6480324,
+      "Tipo":"N/A"
+   },
+   {
+      "Versione":"ESXi 5.5 GA",
+      "Nome Release":"ESXi 5.5 GA",
+      "Data Rilascio":"2013/09/22",
+      "Build Number":1331820,
+      "Tipo":"N/A"
+   },
+   {
+      "Versione":"ESXi 5.1 Patch 9",
+      "Nome Release":"ESXi 5.1 Patch 9",
+      "Data Rilascio":"2016/05/24",
+      "Build Number":3872664,
+      "Tipo":"N/A"
+   },
+   {
+      "Versione":"ESXi 5.1 Update 3",
+      "Nome Release":"ESXi 5.1 Update 3",
+      "Data Rilascio":"2014/12/04",
+      "Build Number":2323236,
+      "Tipo":"N/A"
+   },
+   {
+      "Versione":"ESXi 5.1.0 GA",
+      "Nome Release":"ESXi 5.1.0 GA",
+      "Data Rilascio":"2012/09/10",
+      "Build Number":799733,
+      "Tipo":"N/A"
+   },
+   {
+      "Versione":"ESXi 5.0 Patch 13",
+      "Nome Release":"ESXi 5.0 Patch 13",
+      "Data Rilascio":"2016/06/14",
+      "Build Number":3982828,
+      "Tipo":"N/A"
+   },
+   {
+      "Versione":"ESXi 5.0 Update 3",
+      "Nome Release":"ESXi 5.0 Update 3",
+      "Data Rilascio":"2013/10/17",
+      "Build Number":1311175,
+      "Tipo":"N/A"
+   },
+   {
+      "Versione":"ESXi 5.0 GA",
+      "Nome Release":"ESXi 5.0 GA",
+      "Data Rilascio":"2011/08/24",
+      "Build Number":469512,
+      "Tipo":"N/A"
+   },
+   {
+      "Versione":"ESX 4.1 Patch 11a",
+      "Nome Release":"ESX 4.1 Patch 11a",
+      "Data Rilascio":"2014/10/01",
+      "Build Number":2168595,
+      "Tipo":"N/A"
+   },
+   {
+      "Versione":"ESX 4.1 GA",
+      "Nome Release":"ESX 4.1 GA",
+      "Data Rilascio":"2010/07/13",
+      "Build Number":260247,
+      "Tipo":"N/A"
+   },
+   {
+      "Versione":"ESX 4.0 Patch 15",
+      "Nome Release":"ESX 4.0 Patch 15",
+      "Data Rilascio":"2014/10/01",
+      "Build Number":2167889,
+      "Tipo":"N/A"
+   },
+   {
+      "Versione":"ESX 4.0 Update 1",
+      "Nome Release":"ESX 4.0 Update 1",
+      "Data Rilascio":"2009/11/19",
+      "Build Number":208167,
+      "Tipo":"N/A"
+   },
+   {
+      "Versione":"ESX 4.0 GA",
+      "Nome Release":"ESX 4.0 GA",
+      "Data Rilascio":"2009/05/21",
+      "Build Number":164009,
+      "Tipo":"N/A"
+   }
+]

@@ -1,0 +1,93 @@
+[
+   {
+      "Nome Release":"Proxmox Datacenter Manager 1.1.4",
+      "Versione":"1.1.4",
+      "Codename":"pdm-1.1.4",
+      "Data Rilascio":"2026-06-03",
+      "End Of Support":"Attualmente in supporto"
+   },
+   {
+      "Nome Release":"Proxmox Datacenter Manager 1.1.3",
+      "Versione":"1.1.3",
+      "Codename":"pdm-1.1.3",
+      "Data Rilascio":"2026-05-29",
+      "End Of Support":"Attualmente in supporto"
+   },
+   {
+      "Nome Release":"Proxmox Datacenter Manager 1.1.1",
+      "Versione":"1.1.1",
+      "Codename":"pdm-1.1.1",
+      "Data Rilascio":"2026-05-27",
+      "End Of Support":"Attualmente in supporto"
+   },
+   {
+      "Nome Release":"Proxmox Datacenter Manager 1.0.7",
+      "Versione":"1.0.7",
+      "Codename":"pdm-1.0.7",
+      "Data Rilascio":"2026-05-27",
+      "End Of Support":"Attualmente in supporto"
+   },
+   {
+      "Nome Release":"Proxmox Datacenter Manager 1.0.6",
+      "Versione":"1.0.6",
+      "Codename":"pdm-1.0.6",
+      "Data Rilascio":"2026-05-26",
+      "End Of Support":"Attualmente in supporto"
+   },
+   {
+      "Nome Release":"Proxmox Datacenter Manager 1.0.5",
+      "Versione":"1.0.5",
+      "Codename":"pdm-1.0.5",
+      "Data Rilascio":"2026-05-24",
+      "End Of Support":"Attualmente in supporto"
+   },
+   {
+      "Nome Release":"Proxmox Datacenter Manager 1.0.4",
+      "Versione":"1.0.4",
+      "Codename":"pdm-1.0.4",
+      "Data Rilascio":"2026-05-19",
+      "End Of Support":"Attualmente in supporto"
+   },
+   {
+      "Nome Release":"Proxmox Datacenter Manager 1.0.3",
+      "Versione":"1.0.3",
+      "Codename":"pdm-1.0.3",
+      "Data Rilascio":"2026-03-09",
+      "End Of Support":"Attualmente in supporto"
+   },
+   {
+      "Nome Release":"Proxmox Datacenter Manager 1.0.2",
+      "Versione":"1.0.2",
+      "Codename":"pdm-1.0.2",
+      "Data Rilascio":"2025-12-22",
+      "End Of Support":"Attualmente in supporto"
+   },
+   {
+      "Nome Release":"Proxmox Datacenter Manager 1.0.1",
+      "Versione":"1.0.1",
+      "Codename":"pdm-1.0.1",
+      "Data Rilascio":"2025-12-04",
+      "End Of Support":"Attualmente in supporto"
+   },
+   {
+      "Nome Release":"Proxmox Datacenter Manager 1.0.0",
+      "Versione":"1.0.0",
+      "Codename":"pdm-1.0.0",
+      "Data Rilascio":"2025-12-04",
+      "End Of Support":"Attualmente in supporto"
+   },
+   {
+      "Nome Release":"Proxmox Datacenter Manager 0.9.0",
+      "Versione":"0.9.0",
+      "Codename":"pdm-0.9.0-beta",
+      "Data Rilascio":"2025-09-11",
+      "End Of Support":"Non più supportato"
+   },
+   {
+      "Nome Release":"Proxmox Datacenter Manager 0.1.0",
+      "Versione":"0.1.0",
+      "Codename":"pdm-0.1.0-alpha",
+      "Data Rilascio":"2024-12-19",
+      "End Of Support":"Non più supportato"
+   }
+]

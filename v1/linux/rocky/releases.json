@@ -1,0 +1,142 @@
+[
+   {
+      "Nome Release":"Rocky Linux 10.2",
+      "Versione":"10.2",
+      "Codename":"Red Quartz",
+      "Data Rilascio":"2026-05-28",
+      "End Of Support":"2035-05-31"
+   },
+   {
+      "Nome Release":"Rocky Linux 10.1",
+      "Versione":"10.1",
+      "Codename":"Red Quartz",
+      "Data Rilascio":"2025-11-25",
+      "End Of Support":"2035-05-31"
+   },
+   {
+      "Nome Release":"Rocky Linux 10.0",
+      "Versione":"10.0",
+      "Codename":"Red Quartz",
+      "Data Rilascio":"2025-06-11",
+      "End Of Support":"2035-05-31"
+   },
+   {
+      "Nome Release":"Rocky Linux 9.8",
+      "Versione":"9.8",
+      "Codename":"Blue Onyx",
+      "Data Rilascio":"2026-05-27",
+      "End Of Support":"2032-05-31"
+   },
+   {
+      "Nome Release":"Rocky Linux 9.7",
+      "Versione":"9.7",
+      "Codename":"Blue Onyx",
+      "Data Rilascio":"2025-12-01",
+      "End Of Support":"2032-05-31"
+   },
+   {
+      "Nome Release":"Rocky Linux 9.6",
+      "Versione":"9.6",
+      "Codename":"Blue Onyx",
+      "Data Rilascio":"2025-06-04",
+      "End Of Support":"2032-05-31"
+   },
+   {
+      "Nome Release":"Rocky Linux 9.5",
+      "Versione":"9.5",
+      "Codename":"Blue Onyx",
+      "Data Rilascio":"2024-11-19",
+      "End Of Support":"2032-05-31"
+   },
+   {
+      "Nome Release":"Rocky Linux 9.4",
+      "Versione":"9.4",
+      "Codename":"Blue Onyx",
+      "Data Rilascio":"2024-05-09",
+      "End Of Support":"2032-05-31"
+   },
+   {
+      "Nome Release":"Rocky Linux 9.3",
+      "Versione":"9.3",
+      "Codename":"Blue Onyx",
+      "Data Rilascio":"2023-11-20",
+      "End Of Support":"2032-05-31"
+   },
+   {
+      "Nome Release":"Rocky Linux 9.2",
+      "Versione":"9.2",
+      "Codename":"Blue Onyx",
+      "Data Rilascio":"2023-05-16",
+      "End Of Support":"2032-05-31"
+   },
+   {
+      "Nome Release":"Rocky Linux 9.1",
+      "Versione":"9.1",
+      "Codename":"Blue Onyx",
+      "Data Rilascio":"2022-11-26",
+      "End Of Support":"2032-05-31"
+   },
+   {
+      "Nome Release":"Rocky Linux 9.0",
+      "Versione":"9.0",
+      "Codename":"Blue Onyx",
+      "Data Rilascio":"2022-07-14",
+      "End Of Support":"2032-05-31"
+   },
+   {
+      "Nome Release":"Rocky Linux 8.10",
+      "Versione":"8.10",
+      "Codename":"Green Obsidian",
+      "Data Rilascio":"2024-05-31",
+      "End Of Support":"2029-05-31"
+   },
+   {
+      "Nome Release":"Rocky Linux 8.9",
+      "Versione":"8.9",
+      "Codename":"Green Obsidian",
+      "Data Rilascio":"2023-11-22",
+      "End Of Support":"2029-05-31"
+   },
+   {
+      "Nome Release":"Rocky Linux 8.8",
+      "Versione":"8.8",
+      "Codename":"Green Obsidian",
+      "Data Rilascio":"2023-05-20",
+      "End Of Support":"2029-05-31"
+   },
+   {
+      "Nome Release":"Rocky Linux 8.7",
+      "Versione":"8.7",
+      "Codename":"Green Obsidian",
+      "Data Rilascio":"2022-11-14",
+      "End Of Support":"2029-05-31"
+   },
+   {
+      "Nome Release":"Rocky Linux 8.6",
+      "Versione":"8.6",
+      "Codename":"Green Obsidian",
+      "Data Rilascio":"2022-05-16",
+      "End Of Support":"2029-05-31"
+   },
+   {
+      "Nome Release":"Rocky Linux 8.5",
+      "Versione":"8.5",
+      "Codename":"Green Obsidian",
+      "Data Rilascio":"2021-11-15",
+      "End Of Support":"2029-05-31"
+   },
+   {
+      "Nome Release":"Rocky Linux 8.4",
+      "Versione":"8.4",
+      "Codename":"Green Obsidian",
+      "Data Rilascio":"2021-06-21",
+      "End Of Support":"2029-05-31"
+   },
+   {
+      "Nome Release":"Rocky Linux 8.3",
+      "Versione":"8.3",
+      "Codename":"Green Obsidian",
+      "Data Rilascio":"2021-05-01",
+      "End Of Support":"2029-05-31"
+   }
+]
