@@ -1,0 +1,62 @@
+[
+  {
+    "nome": "Rocky Linux 10.2 DVD",
+    "release": "10",
+    "versione": "10.2-dvd",
+    "tipo": "ISO",
+    "dimensione_file": "10.23 GB",
+    "data_ultimo_aggiornamento": "2026-05-28",
+    "sha256sum": "16ca9c96cdb221ba6e1f68579f21bd69fd8da81c6a921d9068949796f91c8feb",
+    "link": "https://download.rockylinux.org/pub/rocky/10/isos/x86_64/Rocky-10.2-x86_64-dvd1.iso"
+  },
+  {
+    "nome": "Rocky Linux 10.2 Boot (Netinstall)",
+    "release": "10",
+    "versione": "10.2-boot",
+    "tipo": "ISO",
+    "dimensione_file": "1.05 GB",
+    "data_ultimo_aggiornamento": "2026-05-28",
+    "sha256sum": "bf3a75907948563d0c11f3d1b8546ee9216e18a3ea2dc0a67eb4c45452e210f9",
+    "link": "https://download.rockylinux.org/pub/rocky/10/isos/x86_64/Rocky-10.2-x86_64-boot.iso"
+  },
+  {
+    "nome": "Rocky Linux 9.8 DVD",
+    "release": "9",
+    "versione": "9.8-dvd",
+    "tipo": "ISO",
+    "dimensione_file": "15.19 GB",
+    "data_ultimo_aggiornamento": "2026-05-27",
+    "sha256sum": "d2bcbb64c2d67511adf80d40cd9543391a33aea5860a355b1d26d7f55236d01f",
+    "link": "https://download.rockylinux.org/pub/rocky/9/isos/x86_64/Rocky-9.8-x86_64-dvd.iso"
+  },
+  {
+    "nome": "Rocky Linux 9.8 Boot (Netinstall)",
+    "release": "9",
+    "versione": "9.8-boot",
+    "tipo": "ISO",
+    "dimensione_file": "1.48 GB",
+    "data_ultimo_aggiornamento": "2026-05-27",
+    "sha256sum": "d6eeefdc8437c593d41a3150fcca4a734c55642ed472eecdda99720bb1370881",
+    "link": "https://download.rockylinux.org/pub/rocky/9/isos/x86_64/Rocky-9.8-x86_64-boot.iso"
+  },
+  {
+    "nome": "Rocky Linux 8.10 DVD",
+    "release": "8",
+    "versione": "8.10-dvd",
+    "tipo": "ISO",
+    "dimensione_file": "14.21 GB",
+    "data_ultimo_aggiornamento": "2024-05-31",
+    "sha256sum": "642ada8a49dbeca8cca6543b31196019ee3d649a0163b5db0e646c7409364eeb",
+    "link": "https://download.rockylinux.org/pub/rocky/8/isos/x86_64/Rocky-8.10-x86_64-dvd1.iso"
+  },
+  {
+    "nome": "Rocky Linux 8.10 Boot (Netinstall)",
+    "release": "8",
+    "versione": "8.10-boot",
+    "tipo": "ISO",
+    "dimensione_file": "1.09 GB",
+    "data_ultimo_aggiornamento": "2024-05-31",
+    "sha256sum": "203744a255ea6579e49ca7f7f0f17e2fda94e50945d8183a254490e454c7c5b4",
+    "link": "https://download.rockylinux.org/pub/rocky/8/isos/x86_64/Rocky-8.10-x86_64-boot.iso"
+  }
+]

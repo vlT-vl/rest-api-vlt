@@ -1,0 +1,32 @@
+[
+  {
+    "nome": "Red Hat Enterprise Linux 10.2",
+    "release": "10",
+    "versione": "10.2",
+    "tipo": "ISO",
+    "dimensione_file": "N/A",
+    "data_ultimo_aggiornamento": "2026-05-19",
+    "sha256sum": null,
+    "link": "https://access.redhat.com/downloads/content/479/ver=10/rhel---10/10.2/x86_64/product-software"
+  },
+  {
+    "nome": "Red Hat Enterprise Linux 9.8",
+    "release": "9",
+    "versione": "9.8",
+    "tipo": "ISO",
+    "dimensione_file": "N/A",
+    "data_ultimo_aggiornamento": "2026-05-19",
+    "sha256sum": null,
+    "link": "https://access.redhat.com/downloads/content/479/ver=9/rhel---9/9.8/x86_64/product-software"
+  },
+  {
+    "nome": "Red Hat Enterprise Linux 8.10",
+    "release": "8",
+    "versione": "8.10",
+    "tipo": "ISO",
+    "dimensione_file": "N/A",
+    "data_ultimo_aggiornamento": "2024-05-22",
+    "sha256sum": null,
+    "link": "https://access.redhat.com/downloads/content/479/ver=8/rhel---8/8.10/x86_64/product-software"
+  }
+]

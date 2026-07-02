@@ -4,7 +4,7 @@
    "description":"rest-api-vlt is a static, read-only REST API project designed to expose structured release and lifecycle metadata for infrastructure platforms.",
    "schema_version":"1.0",
    "base_url":"https://raw.githubusercontent.com/vlT-vl/rest-api-vlt/api",
-   "generated_at":"2026-06-26T00:00:00Z",
+   "generated_at":"2026-07-02T00:00:00Z",
    "_links":{
       "self":{
          "href":"/v1/index.json"
@@ -36,6 +36,9 @@
                "_links":{
                   "releases":{
                      "href":"/v1/linux/debian/releases.json"
+                  },
+                  "downloads":{
+                     "href":"/v1/linux/debian/downloads.json"
                   }
                }
             },
@@ -44,6 +47,9 @@
                "_links":{
                   "releases":{
                      "href":"/v1/linux/fedora/releases.json"
+                  },
+                  "downloads":{
+                     "href":"/v1/linux/fedora/downloads.json"
                   }
                }
             },
@@ -52,6 +58,9 @@
                "_links":{
                   "releases":{
                      "href":"/v1/linux/rhel/releases.json"
+                  },
+                  "downloads":{
+                     "href":"/v1/linux/rhel/downloads.json"
                   }
                }
             },
@@ -60,6 +69,9 @@
                "_links":{
                   "releases":{
                      "href":"/v1/linux/rocky/releases.json"
+                  },
+                  "downloads":{
+                     "href":"/v1/linux/rocky/downloads.json"
                   }
                }
             },
@@ -68,6 +80,9 @@
                "_links":{
                   "releases":{
                      "href":"/v1/linux/ubuntu/releases.json"
+                  },
+                  "downloads":{
+                     "href":"/v1/linux/ubuntu/downloads.json"
                   }
                }
             }
@@ -277,6 +292,9 @@
             },
             "releases":{
                "href":"/v1/kubernetes/releases.json"
+            },
+            "downloads":{
+               "href":"/v1/kubernetes/downloads.json"
             }
          }
       }

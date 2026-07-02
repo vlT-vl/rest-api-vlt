@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.0.0--R260626-blue?style=flat-square" alt="version"/>
+  <img src="https://img.shields.io/badge/version-1.0.0--R260702-blue?style=flat-square" alt="version"/>
   <img src="https://img.shields.io/badge/api-v1-green?style=flat-square" alt="api-v1"/>
   <img src="https://img.shields.io/badge/hosted-GitHub%20Pages-181717?style=flat-square&logo=github&logoColor=white" alt="github-pages"/>
   <img src="https://img.shields.io/badge/format-JSON-orange?style=flat-square" alt="json"/>
@@ -31,8 +31,9 @@ Consumer ──► https://vlt-vl.github.io/rest-api-vlt
                └── v1/index.json          → discovery entry point
                      │
                      ├── linux/           → Ubuntu · Debian · RHEL · Rocky · Fedora
+                     │                       releases + ISO downloads per distro
                      ├── proxmox/         → PVE · PBS · PDM (releases + ISO downloads)
-                     ├── kubernetes/      → release timeline with EoS dates
+                     ├── kubernetes/      → release timeline with EoS dates + kubectl downloads
                      └── vmware/          → ESXi · vCenter (per major version branch)
 
 Data sources (updated manually or via GitHub Actions)
@@ -40,6 +41,11 @@ Data sources (updated manually or via GitHub Actions)
                ├── Broadcom KB 316595                    → vmware/esxi/*/releases.json
                ├── Broadcom KB 326316                    → vmware/vcenter/*/releases.json
                ├── GitHub API kubernetes/kubernetes      → kubernetes/releases.json
+               ├── dl.k8s.io/release                    → kubernetes/downloads.json
+               ├── cdimage.debian.org/debian-cd          → linux/debian/downloads.json
+               ├── releases.ubuntu.com                   → linux/ubuntu/downloads.json
+               ├── download.rockylinux.org               → linux/rocky/downloads.json
+               ├── dl.fedoraproject.org                  → linux/fedora/downloads.json
                └── Distro trackers (Launchpad, etc.)    → linux/*/releases.json
 ```
 
@@ -55,7 +61,7 @@ GET /v1/index.json
 
 Discovery document listing all vendors, products, and endpoint links.
 
-### Linux
+### Linux — Releases
 
 | Endpoint | Distribution |
 |---|---|
@@ -64,6 +70,18 @@ Discovery document listing all vendors, products, and endpoint links.
 | `/v1/linux/rhel/releases.json` | Red Hat Enterprise Linux |
 | `/v1/linux/rocky/releases.json` | Rocky Linux |
 | `/v1/linux/fedora/releases.json` | Fedora |
+
+### Linux — ISO Downloads
+
+Latest 3 major releases per distro, with SHA256 checksum and direct download link.
+
+| Endpoint | Distribution | ISO type |
+|---|---|---|
+| `/v1/linux/ubuntu/downloads.json` | Ubuntu LTS Server | Live Server (amd64) |
+| `/v1/linux/debian/downloads.json` | Debian | Netinst (amd64) |
+| `/v1/linux/rocky/downloads.json` | Rocky Linux | DVD (x86_64) |
+| `/v1/linux/fedora/downloads.json` | Fedora | Server Netinst (x86_64) |
+| `/v1/linux/rhel/downloads.json` | Red Hat Enterprise Linux | Portal link (requires account) |
 
 ### Proxmox
 
@@ -81,6 +99,9 @@ Discovery document listing all vendors, products, and endpoint links.
 | Endpoint | Description |
 |---|---|
 | `/v1/kubernetes/releases.json` | All Kubernetes releases with EoS dates |
+| `/v1/kubernetes/downloads.json` | kubectl binary — last 3 minor versions (linux/amd64) |
+
+`kubectl` download page: https://kubernetes.io/releases/download/
 
 ### VMware vSphere
 
@@ -105,14 +126,25 @@ rest-api-vlt/
     ├── index.json                          # discovery entry point + OpenAPI-like metadata
     │
     ├── kubernetes/
-    │   └── releases.json
+    │   ├── releases.json
+    │   └── downloads.json                  # kubectl binary — last 3 minor versions
     │
     ├── linux/
-    │   ├── ubuntu/releases.json
-    │   ├── debian/releases.json
-    │   ├── rhel/releases.json
-    │   ├── rocky/releases.json
-    │   └── fedora/releases.json
+    │   ├── ubuntu/
+    │   │   ├── releases.json
+    │   │   └── downloads.json              # LTS server ISO — last 3 LTS
+    │   ├── debian/
+    │   │   ├── releases.json
+    │   │   └── downloads.json              # netinst ISO — last 3 major
+    │   ├── rhel/
+    │   │   ├── releases.json
+    │   │   └── downloads.json              # portal link — last 3 major
+    │   ├── rocky/
+    │   │   ├── releases.json
+    │   │   └── downloads.json              # DVD ISO — last 3 major
+    │   └── fedora/
+    │       ├── releases.json
+    │       └── downloads.json              # server netinst ISO — last 3 releases
     │
     ├── proxmox/
     │   ├── pve/releases.json
@@ -137,11 +169,17 @@ rest-api-vlt/
 | Vendor / Product | Endpoint | Source | Automation |
 |---|---|---|---|
 | Kubernetes | `kubernetes/releases.json` | GitHub API `kubernetes/kubernetes` | ✅ Auto — GitHub API |
+| kubectl downloads | `kubernetes/downloads.json` | `dl.k8s.io/release` — last 3 minor versions | ✅ Auto — HTTP |
 | Ubuntu | `linux/ubuntu/releases.json` | Launchpad API `api.launchpad.net/1.0/ubuntu/series` | ✅ Auto — REST API |
+| Ubuntu ISO downloads | `linux/ubuntu/downloads.json` | `releases.ubuntu.com` + `SHA256SUMS` — last 3 LTS | ✅ Auto — HTTP scraping |
 | Rocky Linux | `linux/rocky/releases.json` | GitHub API `rocky-linux/rocky` | ✅ Auto — GitHub API |
+| Rocky ISO downloads | `linux/rocky/downloads.json` | `download.rockylinux.org` + `CHECKSUM` — last 3 major | ✅ Auto — HTTP scraping |
 | Debian | `linux/debian/releases.json` | `debian.org/releases` | ✅ Auto — HTML scraping |
-| RHEL | `linux/rhel/releases.json` | Red Hat article `access.redhat.com/articles/3078` | ✅ Auto — HTML scraping |
+| Debian ISO downloads | `linux/debian/downloads.json` | `cdimage.debian.org/debian-cd/current` + `SHA256SUMS` | ✅ Auto — HTTP scraping |
 | Fedora | `linux/fedora/releases.json` | `fedoraproject.org/wiki/Releases` | ✅ Auto — HTML scraping |
+| Fedora ISO downloads | `linux/fedora/downloads.json` | `dl.fedoraproject.org/pub/fedora/linux/releases` + CHECKSUM | ✅ Auto — HTTP scraping |
+| RHEL | `linux/rhel/releases.json` | Red Hat article `access.redhat.com/articles/3078` | ✅ Auto — HTML scraping |
+| RHEL ISO downloads | `linux/rhel/downloads.json` | `developers.redhat.com` portal (requires account) | ✋ Manual |
 | VMware ESXi | `vmware/esxi/*/releases.json` | Broadcom KB [316595](https://knowledge.broadcom.com/external/article/316595) | ✅ Auto — HTML scraping |
 | VMware vCenter | `vmware/vcenter/*/releases.json` | Broadcom KB [326316](https://knowledge.broadcom.com/external/article/326316) | ✅ Auto — HTML scraping |
 | Proxmox PVE releases | `proxmox/pve/releases.json` | `git.proxmox.com` — pve-manager bump commits | ✅ Auto — Git scraping |
@@ -159,9 +197,10 @@ All endpoints are automated. Sources are split into three tiers by access method
 GitHub Actions (schedule: weekly Monday 06:00 UTC + workflow_dispatch)
     │
     ├── Tier 1 — Public REST APIs (stable, structured)
-    │   ├── fetch-kubernetes.js     → api.github.com/repos/kubernetes/kubernetes/releases
-    │   ├── fetch-ubuntu.js         → api.launchpad.net/1.0/ubuntu/series
-    │   └── fetch-rocky.js          → api.github.com/repos/rocky-linux/rocky/releases
+    │   ├── fetch-kubernetes.js              → api.github.com/repos/kubernetes/kubernetes/releases
+    │   ├── fetch-kubernetes-downloads.js    → dl.k8s.io/release — kubectl binary (last 3 minor)
+    │   ├── fetch-ubuntu.js                  → api.launchpad.net/1.0/ubuntu/series
+    │   └── fetch-rocky.js                   → api.github.com/repos/rocky-linux/rocky/releases
     │
     ├── Tier 2 — Public HTML / text scraping (page-structure dependent)
     │   ├── fetch-debian.js         → debian.org/releases
@@ -170,11 +209,15 @@ GitHub Actions (schedule: weekly Monday 06:00 UTC + workflow_dispatch)
     │   ├── fetch-vmware-esxi.js    → Broadcom KB 316595 (public, no auth)
     │   └── fetch-vmware-vcenter.js → Broadcom KB 326316 (public, no auth)
     │
-    └── Tier 3 — Proxmox public endpoints (no subscription required)
-        ├── fetch-proxmox-pve.js    → git.proxmox.com pve-manager "bump version" commits
-        ├── fetch-proxmox-pbs.js    → git.proxmox.com proxmox-backup "bump version" commits
-        ├── fetch-proxmox-pdm.js    → git.proxmox.com proxmox-datacenter-manager "bump version" commits
-        └── fetch-proxmox-iso.js    → enterprise.proxmox.com/iso/ dir listing + SHA256SUMS
+    ├── Tier 3 — Proxmox public endpoints (no subscription required)
+    │   ├── fetch-proxmox-pve.js    → git.proxmox.com pve-manager "bump version" commits
+    │   ├── fetch-proxmox-pbs.js    → git.proxmox.com proxmox-backup "bump version" commits
+    │   ├── fetch-proxmox-pdm.js    → git.proxmox.com proxmox-datacenter-manager "bump version" commits
+    │   └── fetch-proxmox-iso.js    → enterprise.proxmox.com/iso/ dir listing + SHA256SUMS
+    │
+    └── Tier 4 — Linux ISO downloads (public mirrors, no auth required)
+        └── fetch-linux-iso.js      → cdimage.debian.org / releases.ubuntu.com
+                                       download.rockylinux.org / dl.fedoraproject.org
 ```
 
 ### Workflow properties
@@ -195,18 +238,20 @@ GitHub Actions (schedule: weekly Monday 06:00 UTC + workflow_dispatch)
     └── update-releases.yml
 
 scripts/
-├── fetch-kubernetes.js       # GitHub API → v1/kubernetes/releases.json
-├── fetch-ubuntu.js           # Launchpad API → v1/linux/ubuntu/releases.json
-├── fetch-rocky.js            # GitHub API → v1/linux/rocky/releases.json
-├── fetch-debian.js           # debian.org scraping → v1/linux/debian/releases.json
-├── fetch-rhel.js             # RedHat KB scraping → v1/linux/rhel/releases.json
-├── fetch-fedora.js           # Fedora wiki scraping → v1/linux/fedora/releases.json
-├── fetch-vmware-esxi.js      # Broadcom KB 316595 → v1/vmware/esxi/*/releases.json
-├── fetch-vmware-vcenter.js   # Broadcom KB 326316 → v1/vmware/vcenter/*/releases.json
-├── fetch-proxmox-pve.js      # git.proxmox.com → v1/proxmox/pve/releases.json
-├── fetch-proxmox-pbs.js      # git.proxmox.com → v1/proxmox/pbs/releases.json
-├── fetch-proxmox-pdm.js      # git.proxmox.com → v1/proxmox/pdm/releases.json
-└── fetch-proxmox-iso.js      # enterprise.proxmox.com/iso → v1/proxmox/downloads/*.json
+├── fetch-kubernetes.js              # GitHub API → v1/kubernetes/releases.json
+├── fetch-kubernetes-downloads.js    # dl.k8s.io → v1/kubernetes/downloads.json
+├── fetch-ubuntu.js                  # Launchpad API → v1/linux/ubuntu/releases.json
+├── fetch-rocky.js                   # GitHub API → v1/linux/rocky/releases.json
+├── fetch-debian.js                  # debian.org scraping → v1/linux/debian/releases.json
+├── fetch-rhel.js                    # RedHat KB scraping → v1/linux/rhel/releases.json
+├── fetch-fedora.js                  # Fedora wiki scraping → v1/linux/fedora/releases.json
+├── fetch-vmware-esxi.js             # Broadcom KB 316595 → v1/vmware/esxi/*/releases.json
+├── fetch-vmware-vcenter.js          # Broadcom KB 326316 → v1/vmware/vcenter/*/releases.json
+├── fetch-proxmox-pve.js             # git.proxmox.com → v1/proxmox/pve/releases.json
+├── fetch-proxmox-pbs.js             # git.proxmox.com → v1/proxmox/pbs/releases.json
+├── fetch-proxmox-pdm.js             # git.proxmox.com → v1/proxmox/pdm/releases.json
+├── fetch-proxmox-iso.js             # enterprise.proxmox.com/iso → v1/proxmox/downloads/*.json
+└── fetch-linux-iso.js               # cdimage/releases.ubuntu.com/rockylinux/fedora → v1/linux/*/downloads.json
 ```
 
 ---
@@ -248,8 +293,8 @@ curl https://vlt-vl.github.io/rest-api-vlt/v1/vmware/esxi/8.0/releases.json
 | Field | Value |
 |---|---|
 | Version | 1.0.0 |
-| Build | R260626 |
-| Updated | 26 June 2026 |
+| Build | R260702 |
+| Updated | 2 July 2026 |
 | API version | v1 |
 | Branch | `api` |
 

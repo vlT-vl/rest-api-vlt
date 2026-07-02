@@ -1,0 +1,32 @@
+[
+  {
+    "nome": "Ubuntu 26.04 LTS Server",
+    "release": "26.04",
+    "versione": "26.04",
+    "tipo": "ISO",
+    "dimensione_file": "N/A",
+    "data_ultimo_aggiornamento": "2026-04-23",
+    "sha256sum": "dec49008a71f6098d0bcfc822021f4d042d5f2db279e4d75bdd981304f1ca5d9",
+    "link": "https://releases.ubuntu.com/26.04/ubuntu-26.04-live-server-amd64.iso"
+  },
+  {
+    "nome": "Ubuntu 24.04.4 LTS Server",
+    "release": "24.04",
+    "versione": "24.04.4",
+    "tipo": "ISO",
+    "dimensione_file": "3.41 GB",
+    "data_ultimo_aggiornamento": "2026-02-10",
+    "sha256sum": "e907d92eeec9df64163a7e454cbc8d7755e8ddc7ed42f99dbc80c40f1a138433",
+    "link": "https://releases.ubuntu.com/24.04/ubuntu-24.04.4-live-server-amd64.iso"
+  },
+  {
+    "nome": "Ubuntu 22.04.5 LTS Server",
+    "release": "22.04",
+    "versione": "22.04.5",
+    "tipo": "ISO",
+    "dimensione_file": "2.14 GB",
+    "data_ultimo_aggiornamento": "2024-09-11",
+    "sha256sum": "9bc6028870aef3f74f4e16b900008179e78b130e6b0b9a140635434a46aa98b0",
+    "link": "https://releases.ubuntu.com/22.04/ubuntu-22.04.5-live-server-amd64.iso"
+  }
+]

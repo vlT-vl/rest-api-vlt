@@ -1,0 +1,32 @@
+[
+  {
+    "nome": "Debian 13.5.0 Netinst",
+    "release": "13",
+    "versione": "13.5.0",
+    "tipo": "ISO",
+    "dimensione_file": "N/A",
+    "data_ultimo_aggiornamento": "2026-07-02",
+    "sha256sum": "95838884f5ea6c82421dfe6baaa5a639dbbe6756c1e380f9fe7a7cb0c1949d2a",
+    "link": "https://cdimage.debian.org/debian-cd/13.5.0/amd64/iso-cd/debian-13.5.0-amd64-netinst.iso"
+  },
+  {
+    "nome": "Debian 12.11.0 Netinst",
+    "release": "12",
+    "versione": "12.11.0",
+    "tipo": "ISO",
+    "dimensione_file": "N/A",
+    "data_ultimo_aggiornamento": "2026-07-02",
+    "sha256sum": "30ca12a15cae6a1033e03ad59eb7f66a6d5a258dcf27acd115c2bd42d22640e8",
+    "link": "https://cdimage.debian.org/debian-cd/12.11.0/amd64/iso-cd/debian-12.11.0-amd64-netinst.iso"
+  },
+  {
+    "nome": "Debian 11.11.0 Netinst",
+    "release": "11",
+    "versione": "11.11.0",
+    "tipo": "ISO",
+    "dimensione_file": "N/A",
+    "data_ultimo_aggiornamento": "2024-02-10",
+    "sha256sum": null,
+    "link": "https://cdimage.debian.org/cdimage/archive/11.11.0/amd64/iso-cd/debian-11.11.0-amd64-netinst.iso"
+  }
+]

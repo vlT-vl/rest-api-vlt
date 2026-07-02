@@ -1,0 +1,32 @@
+[
+  {
+    "nome": "Fedora 44 Server Netinst",
+    "release": "44",
+    "versione": "44",
+    "tipo": "ISO",
+    "dimensione_file": "1.23 GB",
+    "data_ultimo_aggiornamento": "2026-04-28",
+    "sha256sum": "ae20c06bea746913cadea7d80463e13f4bf55bee4df2918111c921c674b70283",
+    "link": "https://dl.fedoraproject.org/pub/fedora/linux/releases/44/Server/x86_64/iso/Fedora-Server-netinst-x86_64-44-1.7.iso"
+  },
+  {
+    "nome": "Fedora 43 Server Netinst",
+    "release": "43",
+    "versione": "43",
+    "tipo": "ISO",
+    "dimensione_file": "1.18 GB",
+    "data_ultimo_aggiornamento": "2025-10-28",
+    "sha256sum": "16fd70ddae2c7de13e485637c3da1fb385dd8220389f988279ea3b3d561243cc",
+    "link": "https://dl.fedoraproject.org/pub/fedora/linux/releases/43/Server/x86_64/iso/Fedora-Server-netinst-x86_64-43-1.6.iso"
+  },
+  {
+    "nome": "Fedora 42 Server Netinst",
+    "release": "42",
+    "versione": "42",
+    "tipo": "ISO",
+    "dimensione_file": "966.01 MB",
+    "data_ultimo_aggiornamento": "2025-04-15",
+    "sha256sum": "231f3e0d1dc8f565c01a9f641b3d16c49cae44530074bc2047fe2373a721c82f",
+    "link": "https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/42/Server/x86_64/iso/Fedora-Server-netinst-x86_64-42-1.1.iso"
+  }
+]

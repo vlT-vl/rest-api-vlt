@@ -26,6 +26,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Fetch Kubernetes kubectl downloads
+        run: node scripts/fetch-kubernetes-downloads.js
+        continue-on-error: true
+
       - name: Fetch Ubuntu releases
         run: node scripts/fetch-ubuntu.js
         continue-on-error: true
@@ -68,6 +72,10 @@ jobs:
 
       - name: Fetch Proxmox ISO downloads
         run: node scripts/fetch-proxmox-iso.js
+        continue-on-error: true
+
+      - name: Fetch Linux ISO downloads
+        run: node scripts/fetch-linux-iso.js
         continue-on-error: true
 
       - name: Commit changes if any
