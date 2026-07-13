@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Debian 13.6.0 Netinst",
+    "release": "13",
+    "versione": "13.6.0",
+    "tipo": "ISO",
+    "dimensione_file": "791.67 MB",
+    "data_ultimo_aggiornamento": "2026-07-11",
+    "sha256sum": "65273beed27b2df543b68b65630ba525cfbad8df2b12035732b2dff87d6664e7",
+    "link": "https://cdimage.debian.org/debian-cd/13.6.0/amd64/iso-cd/debian-13.6.0-amd64-netinst.iso"
+  },
+  {
     "nome": "Debian 13.5.0 Netinst",
     "release": "13",
     "versione": "13.5.0",
