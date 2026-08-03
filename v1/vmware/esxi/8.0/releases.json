@@ -1,5 +1,12 @@
 [
    {
+      "Versione": "ESXi 8.0.3 EP6",
+      "Nome Release": "ESXi 8.0 Update 3k",
+      "Data Rilascio": "2026/07/29",
+      "Build Number": 25595708,
+      "Tipo": "ISO"
+   },
+   {
       "Versione": "ESXi 8.0.3 P09",
       "Nome Release": "ESXi 8.0 Update 3j",
       "Data Rilascio": "2026/05/27",
