@@ -1,5 +1,12 @@
 [
    {
+      "Nome Release": "Kubernetes 1.37.0",
+      "Versione": "1.37.0",
+      "Codename": "k8s-1.37.0",
+      "Data Rilascio": "2026-08-26",
+      "End Of Support": "2027-10-28"
+   },
+   {
       "Nome Release": "Kubernetes 1.36.4",
       "Versione": "1.36.4",
       "Codename": "k8s-1.36.4",
