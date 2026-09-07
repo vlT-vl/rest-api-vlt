@@ -1,5 +1,33 @@
 [
    {
+      "Nome Release": "Proxmox VE 9.2.18",
+      "Versione": "9.2.18",
+      "Codename": "pve-9.2.18",
+      "Data Rilascio": "2026-09-07",
+      "End Of Support": "Attualmente in supporto"
+   },
+   {
+      "Nome Release": "Proxmox VE 9.2.17",
+      "Versione": "9.2.17",
+      "Codename": "pve-9.2.17",
+      "Data Rilascio": "2026-09-07",
+      "End Of Support": "Attualmente in supporto"
+   },
+   {
+      "Nome Release": "Proxmox VE 9.2.16",
+      "Versione": "9.2.16",
+      "Codename": "pve-9.2.16",
+      "Data Rilascio": "2026-09-07",
+      "End Of Support": "Attualmente in supporto"
+   },
+   {
+      "Nome Release": "Proxmox VE 9.2.15",
+      "Versione": "9.2.15",
+      "Codename": "pve-9.2.15",
+      "Data Rilascio": "2026-09-07",
+      "End Of Support": "Attualmente in supporto"
+   },
+   {
       "Nome Release": "Proxmox VE 9.2.14",
       "Versione": "9.2.14",
       "Codename": "pve-9.2.14",
