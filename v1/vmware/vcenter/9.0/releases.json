@@ -1,5 +1,11 @@
 [
   {
+    "Versione": "9.1.1.0100",
+    "Nome Release": "vCenter Server 9.1.1.0100",
+    "Data Rilascio": "2026-10-12",
+    "Build Number": 25784172
+  },
+  {
     "Versione": "9.1.0.0300",
     "Nome Release": "vCenter Server 9.1.0.0300",
     "Data Rilascio": "2026-07-29",
