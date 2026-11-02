@@ -1,5 +1,15 @@
 [
   {
+    "nome": "kubectl v1.37.2 (linux/amd64)",
+    "release": "37.2",
+    "versione": "1.37.2",
+    "tipo": "Binary",
+    "dimensione_file": "61.89 MB",
+    "data_ultimo_aggiornamento": "2026-10-28",
+    "sha256sum": "c04487523e7aa7d1493f7808174c899db93d7a9cf57531420cd76b9bd415f8f4",
+    "link": "https://dl.k8s.io/release/v1.37.2/bin/linux/amd64/kubectl"
+  },
+  {
     "nome": "kubectl v1.37.1 (linux/amd64)",
     "release": "37.1",
     "versione": "1.37.1",
@@ -18,15 +28,5 @@
     "data_ultimo_aggiornamento": "2026-08-26",
     "sha256sum": "6129359f4e1f3848a5572ccb0b26cf28b8ca08cef38c95a765b2f64a2c961a2f",
     "link": "https://dl.k8s.io/release/v1.37.0/bin/linux/amd64/kubectl"
-  },
-  {
-    "nome": "kubectl v1.36.5 (linux/amd64)",
-    "release": "36.5",
-    "versione": "1.36.5",
-    "tipo": "Binary",
-    "dimensione_file": "59.58 MB",
-    "data_ultimo_aggiornamento": "2026-09-23",
-    "sha256sum": "33bc88a24c3b09cf55bfd59e6ca977881b61fc3f25ab65bc80c65b430248648e",
-    "link": "https://dl.k8s.io/release/v1.36.5/bin/linux/amd64/kubectl"
   }
 ]

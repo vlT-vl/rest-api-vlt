@@ -1,5 +1,12 @@
 [
    {
+      "Nome Release": "Kubernetes 1.37.2",
+      "Versione": "1.37.2",
+      "Codename": "k8s-1.37.2",
+      "Data Rilascio": "2026-10-28",
+      "End Of Support": "2027-10-28"
+   },
+   {
       "Nome Release": "Kubernetes 1.37.1",
       "Versione": "1.37.1",
       "Codename": "k8s-1.37.1",
@@ -12,6 +19,13 @@
       "Codename": "k8s-1.37.0",
       "Data Rilascio": "2026-08-26",
       "End Of Support": "2027-10-28"
+   },
+   {
+      "Nome Release": "Kubernetes 1.36.6",
+      "Versione": "1.36.6",
+      "Codename": "k8s-1.36.6",
+      "Data Rilascio": "2026-10-28",
+      "End Of Support": "2027-06-28"
    },
    {
       "Nome Release": "Kubernetes 1.36.5",
@@ -54,6 +68,13 @@
       "Codename": "k8s-1.36.0",
       "Data Rilascio": "2026-04-22",
       "End Of Support": "2027-06-28"
+   },
+   {
+      "Nome Release": "Kubernetes 1.35.10",
+      "Versione": "1.35.10",
+      "Codename": "k8s-1.35.10",
+      "Data Rilascio": "2026-10-28",
+      "End Of Support": "2027-02-28"
    },
    {
       "Nome Release": "Kubernetes 1.35.9",
@@ -124,6 +145,13 @@
       "Codename": "k8s-1.35.0",
       "Data Rilascio": "2025-12-17",
       "End Of Support": "2027-02-28"
+   },
+   {
+      "Nome Release": "Kubernetes 1.34.13",
+      "Versione": "1.34.13",
+      "Codename": "k8s-1.34.13",
+      "Data Rilascio": "2026-10-28",
+      "End Of Support": "2026-10-27"
    },
    {
       "Nome Release": "Kubernetes 1.34.12",
