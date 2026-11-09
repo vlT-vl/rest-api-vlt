@@ -1,5 +1,12 @@
 [
   {
+    "Nome Release": "Fedora Linux 45",
+    "Versione": "45",
+    "Codename": "N/A",
+    "Data Rilascio": "2026-11-03",
+    "End Of Support": "2027-12-08"
+  },
+  {
     "Nome Release": "Fedora Linux 44",
     "Versione": "44",
     "Codename": "N/A",

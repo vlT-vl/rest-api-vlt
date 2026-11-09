@@ -1,5 +1,12 @@
 [
    {
+      "Nome Release": "Proxmox VE 9.2.26",
+      "Versione": "9.2.26",
+      "Codename": "pve-9.2.26",
+      "Data Rilascio": "2026-11-09",
+      "End Of Support": "Attualmente in supporto"
+   },
+   {
       "Nome Release": "Proxmox VE 9.2.25",
       "Versione": "9.2.25",
       "Codename": "pve-9.2.25",

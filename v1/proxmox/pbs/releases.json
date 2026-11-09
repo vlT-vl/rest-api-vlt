@@ -1,5 +1,19 @@
 [
    {
+      "Nome Release": "Proxmox Backup Server 4.2.10",
+      "Versione": "4.2.10",
+      "Codename": "pbs-4.2.10",
+      "Data Rilascio": "2026-11-09",
+      "End Of Support": "Attualmente in supporto"
+   },
+   {
+      "Nome Release": "Proxmox Backup Server 4.2.9",
+      "Versione": "4.2.9",
+      "Codename": "pbs-4.2.9",
+      "Data Rilascio": "2026-11-09",
+      "End Of Support": "Attualmente in supporto"
+   },
+   {
       "Nome Release": "Proxmox Backup Server 4.2.8",
       "Versione": "4.2.8",
       "Codename": "pbs-4.2.8",
