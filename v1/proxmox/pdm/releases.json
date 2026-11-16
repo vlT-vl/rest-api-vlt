@@ -1,5 +1,12 @@
 [
    {
+      "Nome Release": "Proxmox Datacenter Manager 1.1.10",
+      "Versione": "1.1.10",
+      "Codename": "pdm-1.1.10",
+      "Data Rilascio": "2026-11-16",
+      "End Of Support": "Attualmente in supporto"
+   },
+   {
       "Nome Release": "Proxmox Datacenter Manager 1.1.9",
       "Versione": "1.1.9",
       "Codename": "pdm-1.1.9",
