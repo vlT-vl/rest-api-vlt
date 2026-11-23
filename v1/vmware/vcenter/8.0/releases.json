@@ -1,5 +1,11 @@
 [
   {
+    "Versione": "8.0.3.01200",
+    "Nome Release": "vCenter Server 8.0 Update 3m",
+    "Data Rilascio": "2026-11-19",
+    "Build Number": 25934264
+  },
+  {
     "Versione": "8.0.2.00600",
     "Nome Release": "vCenter Server 8.0 Update 2f",
     "Data Rilascio": "2026-08-03",

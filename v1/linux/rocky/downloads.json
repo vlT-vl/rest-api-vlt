@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Rocky Linux 10.3 DVD",
+    "release": "10",
+    "versione": "10.3",
+    "tipo": "ISO",
+    "dimensione_file": "10.82 GB",
+    "data_ultimo_aggiornamento": "2026-11-13",
+    "sha256sum": "de2e4426cd5177ff9f4760bfa2b5b4dea44f771dfef5daeffde1680d6223e1d0",
+    "link": "https://download.rockylinux.org/pub/rocky/10/isos/x86_64/Rocky-10.3-x86_64-dvd1.iso"
+  },
+  {
     "nome": "Rocky Linux 10.2 DVD",
     "release": "10",
     "versione": "10.2",
@@ -28,6 +38,16 @@
     "data_ultimo_aggiornamento": "2026-05-28",
     "sha256sum": "bf3a75907948563d0c11f3d1b8546ee9216e18a3ea2dc0a67eb4c45452e210f9",
     "link": "https://download.rockylinux.org/pub/rocky/10/isos/x86_64/Rocky-10.2-x86_64-boot.iso"
+  },
+  {
+    "nome": "Rocky Linux 9.9 DVD",
+    "release": "9",
+    "versione": "9.9",
+    "tipo": "ISO",
+    "dimensione_file": "15.92 GB",
+    "data_ultimo_aggiornamento": "2026-11-13",
+    "sha256sum": "ace30c575470160d8f6bad42e751bde492d117034da63d4ec55c9b9f04da9263",
+    "link": "https://download.rockylinux.org/pub/rocky/9/isos/x86_64/Rocky-9.9-x86_64-dvd.iso"
   },
   {
     "nome": "Rocky Linux 9.8 DVD",

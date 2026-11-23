@@ -1,5 +1,68 @@
 [
    {
+      "Nome Release": "Proxmox VE 9.2.38",
+      "Versione": "9.2.38",
+      "Codename": "pve-9.2.38",
+      "Data Rilascio": "2026-11-23",
+      "End Of Support": "Attualmente in supporto"
+   },
+   {
+      "Nome Release": "Proxmox VE 9.2.37",
+      "Versione": "9.2.37",
+      "Codename": "pve-9.2.37",
+      "Data Rilascio": "2026-11-23",
+      "End Of Support": "Attualmente in supporto"
+   },
+   {
+      "Nome Release": "Proxmox VE 9.2.36",
+      "Versione": "9.2.36",
+      "Codename": "pve-9.2.36",
+      "Data Rilascio": "2026-11-23",
+      "End Of Support": "Attualmente in supporto"
+   },
+   {
+      "Nome Release": "Proxmox VE 9.2.35",
+      "Versione": "9.2.35",
+      "Codename": "pve-9.2.35",
+      "Data Rilascio": "2026-11-23",
+      "End Of Support": "Attualmente in supporto"
+   },
+   {
+      "Nome Release": "Proxmox VE 9.2.34",
+      "Versione": "9.2.34",
+      "Codename": "pve-9.2.34",
+      "Data Rilascio": "2026-11-23",
+      "End Of Support": "Attualmente in supporto"
+   },
+   {
+      "Nome Release": "Proxmox VE 9.2.33",
+      "Versione": "9.2.33",
+      "Codename": "pve-9.2.33",
+      "Data Rilascio": "2026-11-23",
+      "End Of Support": "Attualmente in supporto"
+   },
+   {
+      "Nome Release": "Proxmox VE 9.2.32",
+      "Versione": "9.2.32",
+      "Codename": "pve-9.2.32",
+      "Data Rilascio": "2026-11-23",
+      "End Of Support": "Attualmente in supporto"
+   },
+   {
+      "Nome Release": "Proxmox VE 9.2.31",
+      "Versione": "9.2.31",
+      "Codename": "pve-9.2.31",
+      "Data Rilascio": "2026-11-23",
+      "End Of Support": "Attualmente in supporto"
+   },
+   {
+      "Nome Release": "Proxmox VE 9.2.30",
+      "Versione": "9.2.30",
+      "Codename": "pve-9.2.30",
+      "Data Rilascio": "2026-11-23",
+      "End Of Support": "Attualmente in supporto"
+   },
+   {
       "Nome Release": "Proxmox VE 9.2.29",
       "Versione": "9.2.29",
       "Codename": "pve-9.2.29",

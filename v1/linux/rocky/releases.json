@@ -1,5 +1,12 @@
 [
    {
+      "Nome Release": "Rocky Linux 10.3",
+      "Versione": "10.3",
+      "Codename": "Red Quartz",
+      "Data Rilascio": "2026-11-16",
+      "End Of Support": "2035-05-31"
+   },
+   {
       "Nome Release": "Rocky Linux 10.2",
       "Versione": "10.2",
       "Codename": "Red Quartz",
@@ -19,6 +26,13 @@
       "Codename": "Red Quartz",
       "Data Rilascio": "2025-06-11",
       "End Of Support": "2035-05-31"
+   },
+   {
+      "Nome Release": "Rocky Linux 9.9",
+      "Versione": "9.9",
+      "Codename": "Blue Onyx",
+      "Data Rilascio": "2026-11-16",
+      "End Of Support": "2032-05-31"
    },
    {
       "Nome Release": "Rocky Linux 9.8",
